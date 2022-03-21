@@ -1,0 +1,756 @@
+{\rtf1\ansi\ansicpg1251\deff0\deflang1049\deflangfe2052{\fonttbl{\f0\fswiss\fprq2\fcharset204{\*\fname Arial;}Arial CYR;}{\f1\fmodern\fprq1\fcharset204{\*\fname Courier New;}Courier New CYR;}{\f2\fmodern\fprq1\fcharset0 Courier New;}}
+{\colortbl ;\red255\green255\blue255;\red0\green0\blue255;\red0\green0\blue0;\red255\green0\blue0;\red153\green204\blue0;\red255\green255\blue0;}
+\viewkind4\uc1\pard\nowidctlpar\cf1\b\f0\fs28 ;\cf2 *** \'d1\'e1\'ee\'f0\'ed\'e8\'ea \'ef\'e0\'f2\'f7\'e5\'e9 \'e4\'eb\'ff Siemens M55 \lang1033 v\lang1049 11 ***\par
+\cf1 ;\cf2\'a9 AlexSid\par
+\cf1\fs20 ;\cf2\lang1033\ul http\lang1049 ://\lang1033 alexsid\lang1049 .\lang1033 antex\lang1049 .\lang1033 ru\lang1049\par
+\par
+\cf1\ulnone ;\cf3\'cf\'f0\'ee\'f8\'e8\'e2\'ea\'e0: \cf4 M55 119111\par
+\cf1 ;\cf3\'c2\'e5\'f0\'f1\'e8\'ff: \cf4 2\lang1033 2\lang1049 .0\lang1033 7\lang1049 .2004\cf3\par
+\cf1 ;\cf0\'c2\'e5\'f0\'f1\'e8\'ff \'e4\'eb\'ff \cf4\lang1033 V\lang1049 _\lang1033 KLay\lang1049  2.6\cf3  \'e8 \'e2\'fb\'f8\'e5\cf0  (\cf2\lang1033\ul www\lang1049 .\lang1033 vi\lang1049 -\lang1033 soft\lang1049 .\lang1033 com\lang1049 .\lang1033 ua\cf0\lang1049\ulnone )\par
+\cf1 ;\cf0\'d6\'e2\'e5\'f2\'ed\'e0\'ff \'e2\'e5\'f0\'f1\'e8\'ff \'e8 \'e4\'ee\'ef\'ee\'eb\'ed\'e5\'ed\'e8\'ff \cf3\'a9 \cf4 HighHunter\cf3\par
+\cf1 ;\cf0\'c4\'e8\'e7\'e0\'e9\'ed \cf3\'a9 \cf4\f1 -=\f0 AsteriX\f1 =-\cf0\f0  \cf2\lang1033\ul www\lang1049 .\lang1033 asterix\lang1049 .\lang1033 hotmail\lang1049 .\lang1033 ru\cf0\lang1049\ulnone\par
+\par
+\cf1\b0\fs16 ;\cf0\f1 -------------------------------------------------------\par
+\cf1\f0 ;\cf2\b\fs20 *** \'cd\'e0\'e7\'e2\'e0\'ed\'e8\'e5 \'ef\'e0\'f2\'f7\'e0 *** \'a9 \'c0\'e2\'f2\'ee\'f0, \'a7 \'cf\'ee\'f0\'f2\'e8\'f0\'ee\'e2\'e0\'eb, \'ae \'d0\'e5\'f1\'ef\'e5\'ea\'f2\cf0\b0\f1\fs16\par
+\cf1\f0 ;\cf4\b\fs20 !\'cf\'f0\'e5\'e4\'f3\'ef\'f0\'e5\'e6\'e4\'e5\'ed\'e8\'e5 \cf5\'ce\'ef\'e8\'f1\'e0\'ed\'e8\'e5 \cf0 ;\'f1\'ed\'ee\'f1\'ea\'e8\b0\f1\fs16\par
+\cf1\f0 ;\cf0\f1 -------------------------------------------------------\par
+\par
+\par
+\cf1\b\f0\fs20 ;\cf2\highlight6 *!*!* \'d1\'ef\'e8\'f1\'ee\'ea \'f1\'f1\'fb\'eb\'ee\'ea (\'f7\'e0\'f1\'f2\'fc 1): *!*!*\highlight0  \'a9 AlexSid\par
+\cf0\b0\f1\fs16 ;6AE8B2 ;\'d2\'e5\'eb\'e5\'f4\'ee\'ed\'ed\'fb\'e9 \'f1\'ef\'f0\'e0\'e2\'ee\'f7\'ed\'e8\'ea\par
+;6AEEB2 ;\'c0\'e4\'f0\'e5\'f1\'ed\'e0\'ff \'ea\'ed\'e8\'e3\'e0\par
+;6DB452 ;\'ca\'e0\'eb\'e5\'ed\'e4\'e0\'f0\'fc\par
+;6CFE78 ;\'c1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea\par
+\lang1033 ;2524E0 ;Wap Browser\par
+\f2 ;9198FA ;\'c8\'e3\'f0\'fb\par
+\f1 ;29D4F4 ;\lang1049\'cd\'ee\'e2\'ee\'e5\lang1033  SMS\par
+;254A03 ;Card-Explorer\par
+;6E929F ;\lang1049\'c7\'e0\'ec\'e5\'f2\'ea\'e8\lang1033\par
+;25C4A2 ;\lang1049\'cc\'ee\'b8\lang1033  \lang1049\'cc\'e5\'ed\'fe\lang1033\par
+;25D06B ;Developer Menu\par
+;6BD6EF ;\lang1049\'ca\'e0\'eb\'fc\'ea\'f3\'eb\'ff\'f2\'ee\'f0\lang1033\par
+\par
+\par
+\cf1\b\f0\fs20 ;\cf2\highlight6 *!*!* \lang1049\'d1\'ef\'e8\'f1\'ee\'ea \'f1\'f1\'fb\'eb\'ee\'ea (\'f7\'e0\'f1\'f2\'fc 2): *!*!*\highlight0  \'a9 \lang1033 HighHunter\lang1049\par
+\cf1 ;\cf4 !\'cd\'e5\'ea\'ee\'f2\'ee\'f0\'fb\'e5 \'f1\'f1\'fb\'eb\'ea\'e8 \'f0\'e0\'e1\'ee\'f2\'e0\'fe\'f2 \'e3\'eb\'fe\'f7\'ed\'ee, \'e1\'f3\'e4\'f3\'f2 \'e8\'f1\'ef\'f0\'e0\'e2\'eb\'ff\'f2\'f1\'ff \'ef\'ee \'ec\'e5\'f0\'e5 \'f2\'e5\'f1\'f2\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'ff\par
+\cf0\b0\f1\fs16 ;5500B4 ;\'c1\'ee\'eb\'fc\'f8\'e8\'e5 \'f6\'e8\'f4\'f0\'ee\'e2\'fb\'e5 \'f7\'e0\'f1\'fb (\'e4\'ee\'eb\'e6\'e5\'ed \'e1\'fb\'f2\'fc \'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed \'f1\'ee\'ee\'f2\'e2\'e5\'f2\'f1\'f2\'e2\'f3\'fe\'f9\'e8\'e9 \'ef\'e0\'f2\'f7)\par
+;2EA856 ;\'cf\'f0\'ee\'f4\'e8\'eb\'e8\par
+;8F623E ;\'c2\'fb\'e1\'ee\'f0 \'ff\'e7\'fb\'ea\'e0 \'e2\'e2\'ee\'e4\'e0\par
+;6F\lang1033 F\lang1049 0B8 ;\'cf\'f0\'e8\'ed\'ff\'f2\'fb\'e5 \'e2\'fb\'e7\'ee\'e2\'fb\par
+;6FECB8 ;\'cd\'e0\'e1\'f0\'e0\'ed\'ed\'fb\'e5 \'ed\'ee\'ec\'e5\'f0\'e0\par
+;6F8CB8 ;\'cd\'e5\'ee\'f2\'e2\'e5\'f7\'e5\'ed\'ed\'fb\'e5 \'e2\'fb\'e7\'ee\'e2\'fb\par
+;256201 ;\'c0\'f0\'f5\'e8\'e2 \lang1033 SMS\lang1049\par
+;25\lang1033 CCA\lang1049 2 ;\'ca\'e0\'eb\'e5\'ed\'e4\'e0\'f0\'fc\par
+;25D0A2 ;\'c2\'f1\'f2\'f0\'e5\'f7\'e8\par
+;25F8A2 ;\'c7\'e0\'e4\'e0\'ed\'e8\'ff\par
+;2560A3 ;\'c4\'e8\'ea\'f2\'ee\'f4\'ee\'ed\par
+;256E9C ;\'d1\'e5\'ea\'f3\'ed\'e4\'ee\'ec\'e5\'f0\par
+;25769C ;\'d2\'e0\'e9\'ec\'e5\'f0\par
+;257E9C ;\'ca\'e0\'ec\'e5\'f0\'e0 (\'e4\'ee\'eb\'e6\'ed\'e0 \'e1\'fb\'f2\'fc \'ef\'ee\'e4\'ea\'eb\'fe\'f7\'e5\'ed\'e0)\par
+;251EB2 ;\'c8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'ff \lang1033 GPRS\lang1049\par
+;2538BF ;\'c8\'ed\'ea\'ee\'e3\'ed\'e8\'f2\'ee\par
+;2CE8EE ;\'d1\'e5\'f2\'e5\'e2\'e0\'ff \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'ff\par
+;25669C ;\'ca\'ee\'ed\'e2\'e5\'f0\'f2\'e5\'f0 \'e2\'e0\'eb\'fe\'f2\par
+;25A49B ;\'c2\'e8\'e7\'e8\'f2\'ed\'e0\'ff \'ea\'e0\'f0\'f2\'ee\'f7\'ea\'e0\par
+;25AC9B ;\'d1\'ef\'f0\'e0\'e2\'ee\'f7\'ed\'e8\'ea \'ef\'ee \'f3\'ec\'ee\'eb\'f7\'e0\'ed\'e8\'fe\par
+;25889C ;\'c4\'e8\'f1\'f2\'e0\'ed\'f6\'e8\'ee\'ed\'ed\'e0\'ff \'f1\'e8\'ed\'f5\'f0\'ee\'ed\'e8\'e7\'e0\'f6\'e8\'ff\par
+;257001 ;\'d2\'e5\'ea\'f1\'f2\'ee\'e2\'fb\'e5 \'ec\'ee\'e4\'f3\'eb\'e8\par
+;2596\lang1033 AD\lang1049  ;\'c4\'e5\'ec\'ee-\'ec\'e5\'ed\'fe (\'e8\'ed\'e0\'f7\'e5 \'e4\'ee\'f1\'f2\'f3\'ef\'ed\'ee \'f2\'ee\'eb\'fc\'ea\'ee \'e1\'e5\'e7 \'f1\'e8\'ec-\'ea\'e0\'f0\'f2\'fb)\par
+;25849C ;\'c3\'ee\'eb\'ee\'f1\'ee\'e2\'e0\'ff \'ea\'ee\'ec\'e0\'ed\'e4\'e0\par
+;25A89B ;\'c3\'f0\'f3\'ef\'ef\'fb\par
+;256\lang1033 A\lang1049 19 ;\'d4\'e8\'eb\'fc\'f2\'f0 \'e8\'e7 \'ec\'e5\'ed\'fe "\'c0\'f3\'e4\'e8\'ee"\par
+;2A120E ;\'d7\'e5\'f0\'ed\'ee\'e2\'e8\'ea\par
+\par
+\par
+\cf1\b\f0\fs20 ;\cf2\highlight6 *!*!* \'d1\'ef\'e8\'f1\'ee\'ea \'e7\'e2\'f3\'ea\'ee\'e2 *!*!*\highlight0  \lang1033\'a9 Matr!x\par
+\cf0\b0\f1\fs16 ;00 \lang1049\'d2\'e8\'f8\'e8\'ed\'e0\lang1033 , \lang1049\'e2\'e8\'e1\'f0\'e0\lang1033\par
+;01 logon sound\par
+;02,3F MessageBox beep\par
+;03 battery empty\par
+;04 klick\par
+;05 loud duud\par
+;06,07,14,15,2D,2E,44-55 play Siemens funky\par
+;08 line ok duuuuuuuuuuu\par
+;09 line busy du du du du\par
+;0A line busy du du du\par
+;0B dud\par
+;0C dududud\par
+;0D dial error du da di\par
+;0E dud dud\par
+;0F,10,12,16,17,29,38,39 \lang1049\'ed\'e8\'f7\'e5\'e3\'ee\lang1033\par
+;11 duuuuuuuud\par
+;13 dud\par
+;18-25 dial tone number\par
+;26 loud dududut\par
+;27 dududut\par
+;28 loud dudadida\par
+;2A dial tone\par
+;2B dundidadundi\par
+;2C duud\par
+;2F turn vibra on\par
+;30 beep\par
+;31,32 loud didudaddadi\par
+;33,34,36,37 play Siemens funky 2\par
+;35,40 loud beep\par
+;3A loud dudi\par
+;3B loud dudi dudi\par
+;3C loud didadidadida\par
+;3E loud dudadidi\par
+;41 beebeep\par
+;42 bump\par
+;43 duut\par
+;7C happy birthday\par
+\lang1049 ;7\lang1033 E\lang1049  \lang1033 take\lang1049  \lang1033 an\lang1049  \lang1033 picture\lang1049\par
+\fs20\par
+\par
+\cf1\b\f0\fs28 ;\cf4\highlight6\'cd\'ee\'e2\'e8\'ed\'ea\'e8, \'f2\'e5\'f1\'f2\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'e5\cf0\highlight0\b0\f1\fs16\par
+\lang1033\fs20\par
+\cf1\lang1049\b\f0 ;\cf2 *** \'cf\'f0\'e8 \'ed\'e0\'e6\'e0\'f2\'e8\'e8 \'f1\'f2\'f0\'e5\'eb\'ea\'e8 \'e2\'ed\'e8\'e7 \'ee\'f2\'ea\'f0\'fb\'e2\'e0\'fe\'f2\'f1\'ff \'e3\'f0\'f3\'ef\'ef\'fb *** \'a9 Matr!x, \'a7 AlexSid\par
+\cf1\fs18 ;\cf0\'c5\'f1\'eb\'e8 \'f1\'f2\'ee\'e8\'f2 \'ef\'e0\'f2\'f7 "\'d1\'ec\'e5\'ed\'e0 \'ff\'e7\'fb\'ea\'e0 \'ed\'e0 \'f0\'f3\'f1\'f1\'ea\'e8\'e9 \'ef\'f0\'e8 \'e2\'f5\'ee\'e4\'e5 \'e2 \'e0\'e4\'f0\'e5\'f1\'ed\'f3\'fe \'ea\'ed\'e8\'e3\'f3"\par
+\cf1 ;\cf0\'f0\'e0\'f1\'ea\'ee\'ec\'ec\'e5\'ed\'f2\'e8\'f0\'ee\'e2\'e0\'f2\'fc \'f1\'eb\'e5\'e4\'f3\'fe\'f9\'f3\'fe \'f1\'f2\'f0\'ee\'f7\'ea\'f3\par
+\lang1033\b0\f1\fs16 ;35DE65: 6A66B2 6B2646\par
+\cf1\lang1049\b\f0\fs18 ;\cf0\'c5\'f1\'eb\'e8 \'e6\'e5 \'fd\'f2\'ee\'f2 \'ef\'e0\'f2\'f7 \'ed\'e5 \'f1\'f2\'ee\'e8\'f2 - \'f2\'ee \'f1\'eb\'e5\'e4\'f3\'fe\'f9\'f3\'fe\par
+\lang1033\b0\f1\fs16 ;0D59AF: 6A66B2 6B2646\par
+\fs20\par
+\cf1\lang1049\b\f0 ;\cf2 *** \'cd\'e0\'e4\'ef\'e8\'f1\'e8 \'ed\'e0 \'e2\'f5\'ee\'e4\'ff\'f9\'e8\'e5 \'e7\'e2\'ee\'ed\'ea\'e8 v1.0c (\'cd\'e5\'e8\'e7\'e2\'e5\'f1\'f2\'ed\'fb\'e9 / \'c3\'ee\'f0\'ee\'e4\'f1\'ea\'ee\'e9 / \'d0\'e0\'e1\'ee\'f7\'e8\'e9 / \'cc\'ee\'e1\'e8\'eb\'fc\'ed\'fb\'e9 / \'d4\'e0\'ea\'f1 / \'d4\'e0\'ea\'f1 2) \lang1033 v\lang1049 1.0\lang1033 c\lang1049  *** \par
+\cf1 ;\cf2\'a9 \lang1033 Matr\lang1049 !\lang1033 x\lang1049 , \'a7 \lang1033 kay\lang1049\par
+\cf1 ;\cf0 Released: 01.07.04\par
+\cf1 ;\cf4 !\'ce\'f2\'ee\'e1\'f0\'e0\'e6\'e5\'ed\'e8\'e5 \'e1\'f3\'e4\'e5\'f2 \'f2\'ee\'eb\'fc\'ea\'ee \'ef\'f0\'e8 \'f2\'ee\'f7\'ed\'ee\'ec \'f1\'ee\'e2\'ef\'e0\'e4\'e5\'ed\'e8\'e8 \'ed\'ee\'ec\'e5\'f0\'e0 \'f1 \'e7\'e0\'ef\'e8\'f1\'e0\'ed\'ed\'fb\'ec \'e2 \'e0\'e4\'f0\'e5\'f1\'ed\'ee\'e9 \'ea\'ed\'e8\'e3\'e5, \'e8\'ed\'e0\'f7\'e5 - "\'cd\'e5\'e8\'e7\'e2\'e5\'f1\'f2\'ed\'fb\'e9"\par
+\cf0\lang1033\b0\f1\fs16 01B6AC: FA216AB8 FA2164B7\par
+01B8C4: DA2164B7 DA21A0B6\par
+0DA9F6: DA9AF2C7 DA7510DD\par
+55DD10: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D7400700F2FBBA3C48B02D0B48B12D0E\par
+55DD20: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 48B22D1148B32D1448B42D1748B52D1A\par
+55DD30: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DB00E6FEA311DA9AF2C7DB00E6FEAE11\par
+55DD40: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DA9AF2C7DB00E6FEB411DA9AF2C7DB00\par
+55DD50: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FEB611DA9AF2C7DB00E6FEAA11DA9A\par
+55DD60: FFFFFFFFFFFFFFFFFFFFFFFFFFFF F2C7DB00E6FEAB11DA9AF2C7DB00\par
+45DBD3: 954E6F726D616C2044756D6D69652D2D2D2D3100 9B1D353837323541423D4B399595959595959500\par
+45DC0D: 954B69737300 9B24303A4100\par
+45DC13: 95486F6C6964617900 9B24303A4195203200\par
+45DC2C: 9548656172746163686500 9B133E403E34413A3E3900\par
+45DC59: 9553686F7070696E6700 9B2030313E4738399500\par
+45DC6C: 954368616D7061676E6500 9B1C3E31383B4C3D4B3900\par
+\cf1\lang1049\b\f0\fs18 ;\cf0\'c5\'f1\'eb\'e8 \'ef\'f0\'e8 \'e2\'f5\'ee\'e4\'ff\'f9\'e5\'ec \'e7\'e2\'ee\'ed\'ea\'e5 \'ed\'e5 \'e7\'e0\'e3\'ee\'f0\'e0\'e5\'f2\'f1\'ff \'ef\'ee\'e4\'f1\'e2\'e5\'f2\'ea\'e0, \'f2\'ee \'f0\'e0\'f1\'ea\'ee\'ec\'ec\'e5\'ed\'f2\'e8\'f0\'f3\'e9\'f2\'e5 \'f1\'eb\'e5\'e4\'f3\'fe\'f9\'e8\'e5 \'e4\'e0\'ed\'ed\'fb\'e5\par
+\b0\f1\fs16 ;01B6A6: DA21F2EE DA7500DD\par
+;55DD00: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DA2160EEE03CE6FDFF7FDAA036D2DB00\par
+\cf1\b\f0\fs18 ;\cf0\'c5\'f1\'eb\'e8 \'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed \'ef\'e0\'f2\'f7 \'e0\'e2\'f2\'ee\'ec\'e0\'f2\'e8\'f7\'e5\'f1\'ea\'ee\'e3\'ee \'f1\'ec\'f1-\'f2\'f0\'e0\'ed\'f1\'eb\'e8\'f2\'e0\par
+\lang1033\b0\f1\fs16 ;55DD34: A311 9F11\par
+;45DBA7: 955375624D656E75205469633100 9B1D353837323541423D4B399500\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'c2\'e8\'e1\'f0\'ee\'f1\'e8\'e3\'ed\'e0\'eb \'e2 \'ec\'ee\'ec\'e5\'ed\'f2 \'f1\'ee\'e5\'e4\'e8\'ed\'e5\'ed\'e8\'ff \lang1033 v\lang1049 1.4 *** \'a9 \lang1033 Matr\lang1049 !\lang1033 x\lang1049 , \'a7 \lang1033 kay\lang1049\par
+\cf1\lang1033 ;\cf0 Released: 07.05.04\par
+\b0\f1\fs16 01B6DE: DAA2CE41 CC00CC00\par
+01F1B0: DA2116F7 DA5522DB\par
+768E7E: F2FD02FE DA5500DB\par
+35DB00: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D7400D00F2FF202348F02D01DB00E01F\par
+35DB10: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D7400D00F6FF2023E6FC2F00FAA2CE41\par
+35DB22: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E00CD7400D00F6FC2023E6FC2F00FAA2\par
+\lang1049 35\lang1033 DB\lang1049 32: \lang1033 FFFF\lang1049  \lang1033 AA\lang1049 39\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'ed\'e0\'f0\'e0\'f1\'f2\'e0\'ed\'e8\'ff \'e3\'f0\'ee\'ec\'ea\'ee\'f1\'f2\'e8 *** \'a9 Sinclair, \'a7 kay\par
+\cf1 ;\cf0\'c1\'ee\'eb\'fc\'f8\'ee\'e5 \'f1\'ef\'e0\'f1\'e8\'e1\'ee LeLLik\par
+\cf1 ;\cf4\'d0\'e5\'ea\'ee\'ec\'e5\'ed\'e4\'f3\'e5\'f2\'f1\'ff \'f3\'e1\'f0\'e0\'f2\'fc \'ee\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'ed\'e0\'f0\'e0\'f1\'f2\'e0\'ed\'e8\'ff \'e7\'e2\'f3\'ea\'e0 \'ed\'e0 sms - \'ed\'e0\'e1\'eb\'fe\'e4\'e0\'fe\'f2\'f1\'ff \'e3\'eb\'fe\'ea\'e8\par
+\cf0\lang1033\b0\f1\fs16 16FE28: E6FD2E00 E6FD2D00\par
+16FE30: E6FD4500 E6FD4400\par
+16FE38: E6FD4700 E6FD4600\par
+16FE40: E6FD4900 E6FD4800\par
+16FE48: E6FD4B00 E6FD4A00\par
+16FE50: E6FD4D00 E6FD4C00\par
+16FE56: E6FD4F00 E6FD4E00\par
+16FE5C: E6FD5100 E6FD5000\par
+16FE62: E6FD5300 E6FD5200\par
+16FE68: E6FD5500 E6FD5400\par
+16FE6E: E6FD3200 E6FD3100\par
+16FE74: E6FD3400 E6FD3300\par
+16FE7A: E6FD3500 E6FD3400\par
+16FE80: E6FD2800 E6FD2700\par
+;16FE86: E6FD3700 E6FD3600 \b\f0\fs18 ;sms\b0\f1\fs16\par
+16FE8C: E6FD3900 E6FD3800\par
+16FE92: E6FD5700 E6FD5600\par
+16FE98: E6FD5900 E6FD5800\par
+16FE9E: E6FD7E00 E6FD7D00\par
+16FEA4: E6FD8000 E6FD7F00\par
+\lang1049 16\lang1033 FEAA\lang1049 : \lang1033 E\lang1049 6\lang1033 FD\lang1049 7\lang1033 D\lang1049 00 \lang1033 E\lang1049 6\lang1033 FD\lang1049 7\lang1033 C\lang1049 00\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** \'ca\'f3\'f0\'f1\'ee\'f0 \'e2\'eb\'e5\'e2\'ee \'e2\'ee \'e2\'f0\'e5\'ec\'ff \'f0\'e0\'e7\'e3\'ee\'e2\'ee\'f0\'e0 \'f1\'f0\'e0\'e7\'f3 \'ec\'e5\'ed\'fe \'e4\'e8\'ea\'f2\'ee\'f4\'ee\'ed\'e0 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1\lang1033 ;\cf0 Released: 07.01.03\par
+\b0\f1\fs16 0D18A2: 26 27\par
+0D18A4: EA205419 EA207E19\par
+0D197E: DAC4EC99 DA2C0019\par
+\lang1049 0\lang1033 D\lang1049 1984: \lang1033 EA\lang1049 20 \lang1033 EA\lang1049 00\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** \'d1\'f2\'f0\'e5\'eb\'ea\'e0 \'e2\'ef\'f0\'e0\'e2\'ee \'e2\'ee \'e2\'f0\'e5\'ec\'ff \'f0\'e0\'e7\'e3\'ee\'e2\'ee\'f0\'e0 \u9472?> \'e2\'ea\'eb./\'e2\'fb\'ea\'eb. \'ec\'e8\'ea\'f0\'ee\'f4\'ee\'ed\'e0 *** \'a9 \lang1033 Matr\lang1049 !\lang1033 x\lang1049 , \'a7 \lang1033 kay\lang1049\par
+\cf1 ;\cf4 !\'d0\'e0\'e1\'ee\'f2\'e0\'e5\'f2 \'f2\'ee\'eb\'fc\'ea\'ee \'f1 \'ef\'e0\'f2\'f7\'e5\'ec "\'ca\'f3\'f0\'f1\'ee\'f0 \'e2\'eb\'e5\'e2\'ee \'e2\'ee \'e2\'f0\'e5\'ec\'ff \'f0\'e0\'e7\'e3\'ee\'e2\'ee\'f0\'e0 \'f1\'f0\'e0\'e7\'f3 \'ec\'e5\'ed\'fe \'e4\'e8\'ea\'f2\'ee\'f4\'ee\'ed\'e0"\par
+\cf0\lang1033\b0\f1\fs16 0D18BE: 14 26\par
+0D18C2: A819 861A\par
+0D1A86: DA2CEE93 DA2DA00A\par
+\fs20\par
+\par
+\cf1\lang1049\b\f0\fs28 ;\cf4\highlight6\'ce\'f2\'e4\'e5\'eb\'fc\'ed\'fb\'e5 \'ef\'e0\'f2\'f7\'e8\highlight0\par
+\cf0\b0\f1\fs20\par
+\cf1\b\f0 ;\cf3\'cf\'ee\'eb\'ed\'fb\'e9 \'f1\'ef\'e8\'f1\'ee\'ea \'ee\'f2\'e4\'e5\'eb\'fc\'ed\'fb\'f5 \'ef\'e0\'f2\'f7\'e5\'e9 \'e4\'eb\'ff \lang1033 M\lang1049 55 \lang1033 v\lang1049 11 \'e2\'f1\'e5\'e3\'e4\'e0 \'ec\'ee\'e6\'ed\'ee \'ed\'e0\'e9\'f2\'e8 \'ed\'e0 \'f1\'e0\'e9\'f2\'e5\par
+\cf1 ;\cf3 http://alexsid.antex.ru \'e2 \'f0\'e0\'e7\'e4\'e5\'eb\'e5 \cf4 "\'cf\'e0\'f2\'f7\'e8"\cf0 .\cf3\par
+\par
+\cf1 ;\cf2 *** \'d3\'e2\'e5\'eb\'e8\'f7\'e5\'ed\'e8\'e5 \'e4\'e8\'f1\'ea\'e0 \'c0 \'e4\'eb\'ff 11 \'ef\'f0\'ee\'f8\'e8\'e2\'ea\'e8 \'e4\'ee 3.5 \'cc\'e1 *** \'a9 avkiev, \'a7 AlexSid\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/DiskA_3.5.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \'cf\'f0\'ee\'e4\'e2\'e8\'ed\'f3\'f2\'fb\'e9 \'e8\'ed\'e4\'e8\'ea\'e0\'f2\'ee\'f0 \'f1\'e5\'f2\'e8 *** \'a9 chaos \'a7 AlexSid\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/NetIndicator.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \'d1\'f3\'ef\'e5\'f0 \'cc\'ee\'ed\'e8\'f2\'ee\'f0 *** \'a9 \lang1033 zhpaul\lang1049  \'a7 \lang1033 AlexSid\lang1049\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/SuperMonitor.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \lang1033 GPRS\lang1049  \'cc\'ee\'ed\'e8\'f2\'ee\'f0 *** \'a9 \lang1033 zhpaul\lang1049  \'a7 \lang1033 AlexSid\lang1049\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/GPRSMonitor.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \'c1\'ee\'eb\'fc\'f8\'e8\'e5 \'f6\'e8\'f4\'f0\'ee\'e2\'fb\'e5 \'f7\'e0\'f1\'fb \'ef\'f0\'e8 \'e7\'e0\'eb\'ee\'f7\'e5\'ed\'ed\'ee\'e9 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'e5 *** \'a9 \lang1033 SiNgle\lang1049 , \lang1033 ACiD\lang1049 [\lang1033 mrp\lang1049 ], \lang1033 RizaPN\lang1049  \'a7 \lang1033 AlexSid\lang1049\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/Digital_clock.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \lang1033 SMS\lang1049  \'f2\'f0\'e0\'ed\'f1\'eb\'e8\'f2 *** \'a9 \lang1033 Chaos\lang1049  \'a7 \lang1033 AlexSid\lang1049\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/SMS_translit.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \'c0\'e2\'f2\'ee\'ec\'e0\'f2\'e8\'f7\'e5\'f1\'ea\'e8\'e9 SMS \'d2\'f0\'e0\'ed\'f1\'eb\'e8\'f2 v1.1 *** \'a9 Matr!x \'a7 !Freeman!\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/Auto_SMS_translit.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \'d7\'b8\'f0\'ed\'fb\'e9_\'f1\'ef\'e8\'f1\'ee\'ea_\lang1033 v\lang1049 2.1 *** \'a9 \lang1033 SiNgle\lang1049  \'a7 \lang1033 AlexSid\lang1049\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/BlackList.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \'cb\'ee\'e3\'e3\'e8\'ed\'e3 \'e7\'e2\'ee\'ed\'ea\'ee\'e2 \lang1033 v\lang1049 2 *** \'a9 \lang1033 Chaos\lang1049  \'a7 \lang1033 AlexSid\lang1049\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/Call_logging.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \'c7\'e0\'ef\'f3\'f1\'ea \'ec\'e8\'e4\'eb\'e5\'f2\'ee\'e2 \'ef\'ee \'e3\'ee\'f0\'ff\'f7\'e8\'ec \'ea\'eb\'e0\'e2\'e8\'f8\'e0\'ec *** \'a9 Chaos, Single \'a7 AlexSid\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/HotKey_Java_starter.vkp\par
+\pard\nowidctlpar\par
+\cf1\lang1033 ;\cf2 *** HotKey "1" Java-Starter *** \'a9 SiNgle, Chaos \'a7 AlexSid\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/HotKey_1_Java_starter.vkp\par
+\pard\nowidctlpar\par
+\cf1 ;\cf2 *** \lang1049\'d0\'f3\'f1\'e8\'f4\'e8\'ea\'e0\'f6\'e8\'ff\lang1033  mail \lang1049\'ea\'eb\'e8\'e5\'ed\'f2\'e0\lang1033  \lang1049\'f1\lang1033  \lang1049\'f0\'f3\'f1\'f1\'ea\'e8\'ec\lang1033  \lang1049\'e2\'e2\'ee\'e4\'ee\'ec\lang1033  *** \'a9 Skylord, Chaos, AsteriX, WASP \'a7 =NeoSpb=\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3 http://alexsid.antex.ru/dn.php?file=files/Patches/Mail_rus.vkp\par
+\pard\nowidctlpar\lang1049\par
+\cf1 ;\cf2 *** \'cb\'fe\'e1\'e0\'ff \'ec\'e5\'eb\'ee\'e4\'e8\'ff \'f1 \'e4\'e8\'f1\'ea\'e0, \'e2 \'ea\'e0\'f7\'e5\'f1\'f2\'e2\'e5 \'e5\'e6\'e5\'f7\'e0\'f1\'ed\'ee\'e3\'ee \'f1\'e8\'e3\'ed\'e0\'eb\'e0 *** \'a9 Matr!x, \'a7 AlexSid\par
+\pard\nowidctlpar\tx7433\cf1 ;\cf3\lang1033 http\lang1049 ://\lang1033 alexsid\lang1049 .\lang1033 antex\lang1049 .\lang1033 ru\lang1049 /\lang1033 dn\lang1049 .\lang1033 php\lang1049 ?\lang1033 file\lang1049 =\lang1033 files\lang1049 /\lang1033 Patches\lang1049 /\lang1033 Melody\lang1049 _\lang1033 every\lang1049 _\lang1033 hour\lang1049 .\lang1033 vkp\lang1049\par
+\pard\nowidctlpar\par
+\cf0\b0\f1\par
+\cf1\b\f0\fs28 ;\cf4\highlight6\'d1 \'e7\'e0\'ec\'e5\'ed\'ee\'e9 \'f1\'f1\'fb\'eb\'ee\'ea\cf0\highlight0\b0\f1\fs20\par
+\par
+\cf1\b\f0 ;\cf2 *** \'d1\'f2\'f0\'e5\'eb\'ea\'e0 \'e2\'eb\'e5\'e2\'ee \u9472?> \'d1\'f1\'fb\'eb\'ea\'e8 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1 ;\cf4 !\'cd\'e5 \'f0\'e0\'e1\'ee\'f2\'e0\'e5\'f2 \'e2\'ee \'e2\'f0\'e5\'ec\'ff \'f0\'e0\'e7\'e3\'ee\'e2\'ee\'f0\'e0!\par
+\cf0\b0\f1\fs16 0D5CC1: 2C74D0 37422A \b\f0\fs18 ;record WAV for Ringer (\'e8\'eb\'e8 \'eb\'fe\'e1\'e0\'ff \'f1\'f1\'fb\'eb\'ea\'e0 \'e8\'e7 \'f1\'ef\'e8\'f1\'ea\'e0)\b0\f1\par
+\fs16\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d1\'f2\'f0\'e5\'eb\'ea\'e0 \'e2\'ef\'f0\'e0\'e2\'ee \u9472?> \'d1\'f1\'fb\'eb\'ea\'e8 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 0D5A9D: 2DE69B 6CFE78 \b\f0\fs18 ;\'c1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea (\'e8\'eb\'e8 \'eb\'fe\'e1\'e0\'ff \'f1\'f1\'fb\'eb\'ea\'e0 \'e8\'e7 \'f1\'ef\'e8\'f1\'ea\'e0)\b0\f1\fs16\par
+0D5AA3: 20 00\par
+0D5B24: 305C 9C5A\par
+\cf2\b\f0\fs20\par
+\cf1 ;\cf2 *** \'d1\'f2\'f0\'e5\'eb\'ea\'e0 \'e2\'e2\'e5\'f0\'f5 \u9472?> \'d1\'f1\'fb\'eb\'ea\'e8 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 0D5C68: E6 DA\par
+0D5C69: FCE600 29D4F4 \b\f0\fs18 ;\'cd\'ee\'e2\'ee\'e5 SMS (\'e8\'eb\'e8 \'eb\'fe\'e1\'e0\'ff \'f1\'f1\'fb\'eb\'ea\'e0 \'e8\'e7 \'f1\'ef\'e8\'f1\'ea\'e0)\par
+\b0\f1\fs16 0D5C6C: DA8556D04840 CC00CC00CC00\par
+0D5C73: 30 00\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** \'d6\'e8\'f4\'f0\'e0 1 \u9472?> \'ea\'f3\'f7\'e0 \'f1\'f1\'fb\'eb\'ee\'ea *** \'a9 \lang1033 SiNgle\lang1049 , \'a7 \lang1033 AlexSid\lang1049\par
+\cf1 ;\cf4 !\'cd\'e5 \'f1\'ee\'e2\'ec\'e5\'f1\'f2\'e8\'ec \'f1 \'ef\'e0\'f2\'f7\'e5\'ec HotKey_1_Java_starter.vkp, \'ef\'ee\'fd\'f2\'ee\'ec\'f3 \'e7\'e0\'ea\'ee\'ec\'ec\'e5\'ed\'f2\'e8\'f0\'ee\'e2\'e0\'ed\par
+\cf1 ;\cf0 Released: 12.01.04\par
+\b0\f1\fs16 ;0DC691: 209036 6BD6EF \b\f0\fs18 ;\'ca\'e0\'eb\'fc\'ea\'f3\'eb\'ff\'f2\'ee\'f0 (\'e8\'eb\'e8 \'eb\'fe\'e1\'e0\'ff \'f1\'f1\'fb\'eb\'ea\'e0 \'e8\'e7 \'f1\'ef\'e8\'f1\'ea\'e0 \'e2\'fb\'f8\'e5)\b0\f1\fs16\par
+;0DC694: 48423D02 EA0030C7\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** SMS \u9472?> \'c7\'e5\'eb\'e5\'ed\'e0\'ff \'ea\'ed\'ee\'ef\'ea\'e0 \u9472?> \'c2\'fb\'e1\'ee\'f0 \'ff\'e7\'fb\'ea\'e0 \'e2\'e2\'ee\'e4\'e0 *** \'a9 SiNgle, Matr!x, \'a7 AlexSid\par
+\cf1 ;\cf0 Released 03.02.04\par
+\b0\f1\fs16 0B577E: E6FEFC00E07F DA8F623E\lang1033 DB\lang1049 00\par
+6\lang1033 F\lang1049 3\lang1033 FC\lang1049 4: \lang1033 DA\lang1049 99\lang1033 A\lang1049 2\lang1033 B\lang1049 0 \lang1033 CC\lang1049 00\lang1033 CC\lang1049 00 \b\f0\fs18 ;\'f3\'e1\'f0\'e0\'f2\'fc \'e8\'ed\'f4\'f3 \'ee \'e2\'fb\'e1\'f0\'e0\'ed\'ed\'ee\'ec \'ff\'e7\'fb\'ea\'e5\b0\f1\fs16\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1033 SMS\lang1049  \u9472?> \'c8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'ff T9 \u9472?> \'c2\'fb\'e1\'ee\'f0 \'ff\'e7\'fb\'ea\'e0 \'e2\'e2\'ee\'e4\'e0 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1 ;\cf0 Released 02.02.04\par
+\b0\f1\fs16 0B576E: DA9964B8 DA8F623E\par
+\fs20\par
+\cf1\b\f0 ;\cf2  *** \'c7\'e5\'eb\'b8\'ed\'e0\'ff \'ea\'ed\'ee\'ef\'ea\'e0 \u9472?> \'d1\'ef\'e8\'f1\'ea\'e8 \'e2\'fb\'e7\'ee\'e2\'ee\'e2 *** \'a9 Matr!x, \'a7 AlexSid\par
+\cf1 ;\cf0 Released: 12.01.04\par
+\b0\f1\fs16 0D5D7A: DA6FECB8 DA5500D0\par
+\cf5\b\f0\fs20 ;1-\'ee\'e5 - \'ed\'e0\'e1\'f0\'e0\'ed\'ed\'fb\'e5 \'ed\'ee\'ec\'e5\'f0\'e0, 2-\'ee\'e5 \'ed\'e5\'ee\'f2\'e2\'e5\'f7\'e5\'ed\'ed\'fb\'e5, 3-\'e8\'e5 - \'ef\'f0\'e8\'ed\'ff\'f2\'fb\'e5.\par
+\cf0\b0\f1\fs16 035D000: FFFFFFFFFFFFFFFFFFFFFFFF DA6FECB8DA6FF0B8FA6F8CB8\par
+\cf5\b\f0\fs20 ;1-\'ee\'e5 - \'ed\'e0\'e1\'f0\'e0\'ed\'ed\'fb\'e5 \'ed\'ee\'ec\'e5\'f0\'e0, 2-\'ee\'e5 - \'ef\'f0\'e8\'ed\'ff\'f2\'fb\'e5.\par
+\cf0\b0\f1\fs16 ;035D000: FFFFFFFFFFFFFFFF DA6FECB8FA6FF0B8\par
+\fs20\par
+\par
+\cf1\b\f0\fs28 ;\cf4\highlight6\'c8\'e7\'ec\'e5\'ed\'e5\'ed\'e8\'ff\cf0\highlight0\b0\f1\fs20\par
+\par
+\cf1\b\f0 ;\cf2 *** \'c8\'e7\'ec\'e5\'ed\'e5\'ed\'e8\'e5 \'e2\'f0\'e5\'ec\'e5\'ed\'e8 \'ef\'ee\'e4\'e0\'f7\'e8 \'e5\'e6\'e5\'ec\'e8\'ed\'f3\'f2\'ed\'ee\'e3\'ee \'f1\'e8\'e3\'ed\'e0\'eb\'e0 *** \'a9 \lang1033 SiNgle\lang1049 , \lang1033 RizaPN\lang1049 , \'a7 \lang1033 AlexSid\cf0\lang1049\b0\f1\fs16\par
+00413C: F2F40CFE DA9F8601\par
+7F0186: FFFFFFFFFFFFFFFFFFFF F2F40CFE46F43200DB00  \b\f0\fs18 ;50-\'ff \'f1\'e5\'ea\'f3\'ed\'e4\'e0\b0\f1\fs16\par
+;7F018C: 32 XX  \b\f0\fs18 ;XX - \'ed\'e0 \'ea\'e0\'ea\'ee\'e9 \'f1\'e5\'ea\'f3\'ed\'e4\'e5 \'e1\'e8\'ea\'e0\'f2\'fc\b0\f1\fs16\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** \'c8\'e7\'ec\'e5\'ed\'e8\'f2\'fc \'e7\'e2\'f3\'f7\'e5\'ea \'ef\'f0\'e8 \'f1\'fa\'e5\'ec\'ea\'e5 \'ca\'e0\'ec\'e5\'f0\'ee\'e9 *** \'a9 avkiev, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 0F6014: 25 3A\fs20  \b\f0\fs18 ;\'e8\'eb\'e8 \'eb\'fe\'e1\'ee\'e9 \'e7\'e2\'f3\'ea \'e8\'e7 \'f1\'ef\'e8\'f1\'ea\'e0\f1\fs20\par
+\b0\par
+\cf1\b\f0 ;\cf2 *** \'d1\'ee\'e7\'e4\'e0\'e2\'e0\'f2\'fc High-\'f4\'ee\'f2\'ea\'e8 \'ef\'f0\'ff\'ec\'ee \'e2 \'ef\'e0\'ef\'ea\'e5 Camera \'e2 \'ea\'ee\'f0\'ed\'e5\'e2\'ee\'ec \'ea\'e0\'f2\'e0\'eb\'ee\'e3\'e5,\par
+\cf1\lang1033 ;\cf2 *** Low-\lang1049\'f4\'ee\'f2\'ea\'e8\lang1033  \lang1049\'e2\lang1033  Camera\\Low quality *** \'a9 avkiev, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 386266: 50696374757265 43616D65726100\par
+386283: 50696374757265735C43616D6572615C4C6F77 43616D6572615C4C6F77207175616C69747900 \par
+38731E: 50696374757265 43616D65726100\par
+38734F: 50696374757265735C43616D6572615C4C6F77 43616D6572615C4C6F77207175616C69747900\par
+\fs20\par
+\cf1\lang1049\b\f0 ;\cf2 *** \'d3\'ec\'e5\'ed\'fc\'f8\'e5\'ed\'e8\'e5 \'f0\'e0\'e7\'ec\'e5\'f0\'e0 \'f8\'f0\'e8\'f4\'f2\'e0 \'e4\'e0\'f2\'fb \'e8 \'e2\'f0\'e5\'ec\'e5\'ed\'e8 \'ed\'e0 \'e3\'eb\'e0\'e2\'ed\'ee\'ec \'fd\'ea\'f0\'e0\'ed\'e5 *** \'a9 !Freeman!\par
+\cf1\lang1033 ;\cf3 based on patch Small Fonts \'a9 SiNgle\par
+\cf0\lang1049\b0\f1\fs16 3821B0: 06 08\par
+3821B8: 02 08\par
+3821C0: 02 08\par
+3821C8: 06 08\par
+3821D0: 06 08\par
+3821D8: 06 08\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c8\'e7\'ec\'e5\'ed\'e8\'f2\'fc \'f1\'ea\'ee\'f0\'ee\'f1\'f2\'fc \'e0\'e2\'f2\'ee\'ef\'ee\'e2\'f2\'ee\'f0\'e0 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'fb *** \'a9 SiNgle, \'a7 ZH-Soft\par
+\cf0\b0\f1\fs16 7887c8: 56 20\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** \'d0\'f3\'f1\'e8\'f4\'e8\'ea\'e0\'f6\'e8\'ff Card-Explorer \'ed\'e0 \'e3\'ee\'f0\'ff\'f7\'e5\'e9 \'ea\'eb\'e0\'e2\'e8\'f8\'e5 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1 ;\cf4 !\'c2\'ee\'e7\'ec\'ee\'e6\'ed\'ee \'e2\'fb\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'f2\'e5\'eb\'e5\'f4\'ee\'ed\'e0\par
+\cf0\b0\f1\fs16 0D3B10: 2D06 CC00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d1\'fa\'b8\'ec\'ea\'e0 \'ea\'e0\'ec\'e5\'f0\'ee\'e9 \'ef\'f0\'e8 \'f0\'e0\'e7\'f0\'ff\'e6\'e5\'ed\'ed\'ee\'ec \'e0\'ea\'ea\'f3\'ec\'f3\'eb\'ff\'f2\'ee\'f0\'e5 *** \'a9 Skylord, ValeraVi, SiNgle, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 7E218C: F2F4E2A7 E094DB00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c2\'fb\'e2\'ee\'e4\'e8\'f2\'fc \'e2 \'ea\'e0\'eb\'e5\'ed\'e4\'e0\'f0\'e5 \'e4\'e0\'f2\'f3 \'ef\'ee\'eb\'ed\'ee\'f1\'f2\'fc\'fe \lang1033 (\lang1049\'df\'ed\'e2\lang1033 2004->29/01/2004) *** \'a9 Matr!x, \'a7 AlexSid\par
+\cf1 ;\cf0 Released: 29.01.04\par
+\b0\f1\fs16 4D835C: FA84 8A71\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1049\'df\'f0\'ea\'ee\'f1\'f2\'fc\lang1033  \lang1049\'ef\'ee\'e4\'f1\'e2\'e5\'f2\'ea\'e8\lang1033  \lang1049\'f1\lang1033  \lang1049\'f8\'e0\'e3\'ee\'ec\lang1033  5% v0.1b *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 7F75DA: E0AE E05E\par
+7F7640: E0AE E05E\par
+7F75EE: 81 76\par
+05CFB6: 26FC0A00 26FC0500\par
+05CF80: 06FC0A00 06FC0500\par
+41F676: 0003080C121E2B3844517F0003080C121E2B384451 000103081012161e242b3034384044485054586064\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1049\'cf\'eb\'e0\'e2\'ed\'ee\'e5\lang1033  \lang1049\'e2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5\lang1033  \lang1049\'ef\'ee\'e4\'f1\'e2\'e5\'f2\'ea\'e8\lang1033  v1.0 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 80D5F4: DAA0A8D5 DA5540B0\tab\b\f0\fs18 ;Keyb,sms...\b0\f1\fs16\par
+80D6DE: DA9F7475 DA5540B0\tab\b\f0\fs18 ;After Phone ON\b0\f1\fs16\par
+35b040: FFFFFFFFFFFFFFFFFFFF E6FE0004DAA0A8D5DB00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1049\'c8\'e7\'ec\'e5\'ed\'e5\'ed\'e8\'e5\lang1033  \lang1049\'e2\'f0\'e5\'ec\'e5\'ed\'e8\lang1033  \lang1049\'ef\'ee\'ea\'e0\'e7\'e0\lang1033  2\lang1049\'ee\'e9\lang1033  \lang1049\'ed\'e0\'f7\'e0\'eb\'fc\'ed\'ee\'e9\lang1033  \lang1049\'e0\'ed\'e8\'ec\'e0\'f6\'e8\'e8\lang1033  *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1\lang1049 ;\cf5\'cf\'e5\'f0\'e2\'e0\'ff \'e0\'ed\'e8\'ec\'e0\'f6\'e8\'ff \'f3\'e1\'e8\'f0\'e0\'e5\'f2\'f1\'ff 25 \'e1\'e8\'f2\'ee\'ec \'e2 Siemens Service Profiler\par
+\cf0\b0\f1\fs16 0ED760: B20C 4000 \b\f0\fs18 ;\'e8\'e7\'ec\'e5\'ed\'e8\'f2\'fc \'e2\'f0\'e5\'ec\'ff \'ed\'f3\'e6\'ed\'ee \'e4\'e0\'e6\'e5 \'e5\'f1\'eb\'e8 \'e0\'ed\'e8\'ec\'e0\'f6\'e8\'fe \'e2\'fb\'ea\'eb., \'e8\'ed\'e0\'f7\'e5 \'e1\'f3\'e4\'e5\'f2 \'ef\'f3\'f1\'f2\'ee\'e9 \'fd\'ea\'f0\'e0\'ed\b0\f1\fs16\par
+;0ED698: 3D 0d    \b\f0\fs18 ;\'f3\'e1\'f0\'e0\'f2\'fc \'e0\'ed\'e8\'ec\'e0\'f6\'e8\'fe \'e2\'ee\'ee\'e1\'f9\'e5\b0\fs16\par
+\f1\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'e3\'f0\'ee\'ec\'ea\'ee\'e9 \'f1\'e2\'ff\'e7\'e8 \'e2\'ee \'e2\'f0\'e5\'ec\'ff \'f0\'e0\'e7\'e3\'ee\'e2\'ee\'f0\'e0 \'e1\'e5\'e7 \'ef\'ee\'e4\'f2\'e2\'e5\'f0\'e6\'e4\'e5\'ed\'e8\'ff *** \'a9 \lang1033 SiNgle\lang1049 , \lang1033 avkiev\lang1049 , \'a7 \lang1033 AlexSid\lang1049\par
+\cf0\b0\f1\fs16 0\lang1033 D\lang1049 1\lang1033 A\lang1049 4\lang1033 E\lang1049 : \lang1033 E\lang1049 01\lang1033 CE\lang1049 6\lang1033 FD\lang1049 4907\lang1033 E\lang1049 00\lang1033 E\lang1049  \lang1033 DAA\lang1049 12\lang1033 E\lang1049 28\lang1033 FA\lang1049 2\lang1033 D\lang1049 621\lang1033 A\lang1049  \par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c8\'e7\'ec\'e5\'ed\'e8\'f2\'fc \'e7\'e2\'f3\'ea \'ef\'f0\'e8 \'f3\'e4\'e0\'f7\'ed\'ee\'ec \'f1\'ee\'e5\'e4\'e8\'ed\'e5\'ed\'e8\'e8 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1\lang1033 ;\cf0 Released 08.01.03\par
+\b0\f1\fs16 01F18A: 13 3A  \b\f0\fs18 ;\lang1049\'c2\'ec\'e5\'f1\'f2\'ee\lang1033  3A \lang1049\'ec\'ee\'e6\'ed\'ee\lang1033  \lang1049\'f1\'f2\'e0\'e2\'e8\'f2\'fc\lang1033  3A 3B 3C 3D 3E 01 5A\b0\f1\fs16\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'cd\'e0\'e1\'ee\'f0 \'f2\'ee\'eb\'fc\'ea\'ee 112 \'ef\'f0\'e8 \'e7\'e0\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'ee\'e9 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'e5 (\'e1\'e5\'e7 08, 911) *** \'a9 Matr!x\par
+\cf1 ;\cf0 thx to ACiD [mrp]\par
+\cf1 ;\cf5\'d2\'e5\'eb \'e1\'ee\'eb\'fc\'f8\'e5 \'cd\'c5 \'ee\'f2\'f0\'f3\'e1\'e0\'e5\'f2\'f1\'ff \'ef\'f0\'e8 \'ed\'e0\'e6\'e0\'f2\'e8\'ff\'f5 5, 0 \'e8\'eb\'e8 8 \'e8 \'ed\'e5 \'f0\'e5\'e0\'e3\'e8\'f0\'f3\'e5\'f2 \'ed\'e0 \'ed\'e8\'f5!\par
+\cf0\b0\f1\fs16 02160E: EA20 0D0F\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'cf\'f0\'e8\'ea\'ee\'eb\'fc\'ed\'fb\'e5 \'e8\'e7\'ec\'e5\'ed\'e5\'ed\'e8\'ff \'ed\'e5\'e4\'ee\'f1\'f2\'f3\'ef\'ed\'fb\'f5 \'ea\'ed\'ee\'ef\'ee\'ea \'ed\'e0 \'fd\'ea\'f0\'e0\'ed\'e5 *** \'a9 Matr!x, Braindead(s55)\par
+\cf0\b0\f1\fs16 775718: AA FF\par
+;FF - \'ed\'e5\'e2\'e8\'e4\'e8\'ec\'fb\'e5\par
+;00 - \'e7\'e0\'ef\'ee\'eb\'ed\'e5\'ed\'fb \'f6\'e2\'e5\'f2\'ee\'ec\par
+;C0, F0 - \'e2\'ee\'eb\'ed\'fb\par
+;DD - \'f0\'ff\'e1\'fc\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** \'c8\'e7\'ec\'e5\'ed\'e5\'ed\'e8\'e5 \'e2\'f0\'e5\'ec\'e5\'ed\'e8 \'e0\'e2\'f2\'ee\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'ea\'e8 \'ea\'eb\'e0\'e2\'e8\'f8 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1\lang1033 ;\cf0 Released: 07.01.03\par
+\b0\f1\fs16 0D6CF4: C832 a861  \b\f0\fs18 ;32\lang1049\'d1\lang1033 8 - 13000\lang1049\'ec\'f1\lang1033 , 61\lang1049\'c0\lang1033 8 - 25000\lang1049\'ec\'f1\lang1033\b0\f1\fs16\par
+\fs20\par
+\cf1\lang1049\b\f0 ;\cf2 *** \'c2\'fb\'e1\'ee\'f0 \'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2\'ed\'ee\'e3\'ee \'ef\'ee\'eb\'ee\'e6\'e5\'ed\'e8\'ff \'ea\'f3\'f0\'f1\'ee\'f0\'e0 \'e2 \'ef\'f0\'ee\'f4\'e8\'eb\'ff\'f5 *** \'a9 Matr!x\par
+\cf0\b0\f1\fs16 E5674: 3D02 CC00\par
+E5676: E00C E02C \b\f0\fs18 ;\'e7\'e0\'ec\'e5\'ed\'e8\'f2\'fc '2' \'ed\'e0 0...7 \'e4\'eb\'ff \'e2\'fb\'e1\'ee\'f0\'e0 \'ef\'ee\'e7\'e8\'f6\'e8\'e8 \'ea\'f3\'f0\'f1\'ee\'f0\'e0\b0\f1\fs16\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** \'d0\'e0\'e7\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'ea\'e0 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'fb \'eb\'fe\'e1\'ee\'e9 \'ea\'ed\'ee\'ef\'ea\'ee\'e9 (0-9, #) *** \'a9 Matr!x, \'a7 =NeoSpb=\par
+\cf1 ;\cf0 Released: 19.06.04\par
+\b0\f1\fs16 79\lang1033 C\lang1049 56\lang1033 D\lang1049 : 3\lang1033 B\lang1049  27\par
+\fs20\par
+\cf1\b\f0 ;\cf2 *** \'d0\'e0\'e7\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'ea\'e0 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'fb \'ef\'f0\'e8 \'e4\'e2\'ee\'e9\'ed\'ee\'ec \'ed\'e0\'e6\'e0\'f2\'e8\'e8 \'eb\'e8\'e1\'ee \'e4\'e2\'ee\'e9\'ed\'ee\'e5 \'ed\'e0\'e6\'e0\'f2\'e8\'e5 #,\par
+\cf1 ;\cf2\'eb\'e8\'e1\'ee \'ea\'ee\'ec\'e1\'e8\'ed\'e0\'f6\'e8\'ff \'eb\'fe\'e1\'ee\'e9 \'ea\'eb\'e0\'e2\'e8\'f8\'e8 \'e8 # *** \'a9 Matr!x, \'a7 =NeoSpb=\par
+\cf1 ;\cf0 Released: 19.06.04\par
+\b0\f1\fs16 79\lang1033 C\lang1049 5\lang1033 D\lang1049 0: \lang1033 EA\lang1049 304\lang1033 AC\lang1049 6 \lang1033 CC\lang1049 00\lang1033 CC\lang1049 00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'ef\'ee\'e4\'f1\'e2\'e5\'f2\'ea\'e8 \'ef\'f0\'e8 \'e4\'e2\'ee\'e9\'ed\'ee\'ec \'ed\'e0\'e6\'e0\'f2\'e8\'e8 \'ed\'e0 \'eb\'fe\'e1\'f3\'fe \'ea\'ed\'ee\'ef\'ea\'f3 (0-9) \'ef\'f0\'e8 \'e7\'e0\'eb\'ee\'f7\'e5\'ed\'ed\'ee\'e9 \'ea\'eb\'e0\'e2\'e5 ***\par
+\cf1\lang1033 ;\cf2\'a9 Matr!x, \'a7 =NeoSpb=\cf0\b0\f1\fs16\par
+\cf1\b\f0\fs20 ;\cf0 Released: 19.06.04\par
+\b0\f1\fs16 79C5E4: F0CEF0DF08C4DC5DD4FC0200 E03CE6FDFF7FDAA036D20D27\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'c8\'e7\'ec\'e5\'ed\'e5\'ed\'e8\'e5 \'ef\'ee\'f0\'ff\'e4\'ea\'e0 \'e0\'ed\'e8\'ec\'e0\'f6\'e8\'e8 "\'cf\'ee\'e6\'e0\'eb\'f3\'e9\'f1\'f2\'e0 \'ef\'ee\'e4\'ee\'e6\'e4\'e8\'f2\'e5" *** \'a9 SiNgle, \'a7 -SKB-\par
+\cf0\lang1033\b0\f1\fs16 3FFD4E: D700D800D900DA00DB00DC DC00DA00D800D700D900DB\par
+3FFD7E: D700D800D900DA00DB00DC DC00DA00D800D700D900DB\par
+\par
+\fs20\par
+\cf1\lang1049\b\f0\fs28 ;\cf4\highlight6\'ce\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e9, \'e2\'ee\'ef\'f0\'ee\'f1\'ee\'e2, \'ef\'ee\'e4\'f2\'e2\'e5\'f0\'e6\'e4\'e5\'ed\'e8\'e9, \'f4\'f3\'ed\'ea\'f6\'e8\'e9\highlight0\par
+\cf0\f1\fs20\par
+\cf1\f0 ;\cf2 *** \'cd\'e5 \'ef\'ee\'ea\'e0\'e7\'fb\'e2\'e0\'f2\'fc \'ed\'e0\'e4\'ef\'e8\'f1\'e8 \'e2 \'e7\'e0\'f1\'f2\'e0\'e2\'ea\'e5 *** \'a9 Matr!x, \'a7 =NeoSpb=\par
+\cf0\lang1033\b0\f1\fs16 0E637E: DA2E6485 CC00CC00\par
+0E639C: DA220841 CC00CC00\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 "\'c1\'e5\'e7\'ee\'ef\'e0\'f1\'ed\'ee\'f1\'f2\'fc \'e2 \'f1\'e0\'ec\'ee\'eb\'e5\'f2\'e5" *** \'a9 ACiD[mrp], \'a7 Matr!x\par
+\cf1 ;\cf0 Released: 29.04.04\par
+\b0\f1\fs16 0EB13E: 3D 0D\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'e2\'e8\'e1\'f0\'ee\'e7\'e2\'ee\'ed\'ee\'ea \'e2 \'e1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea\'e5 *** \'a9 Matr!x, \'a7 ZH-Soft\cf0\b0\f1\fs16\par
+4C764A: 1241 D83F\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'f1\'e8\'e3\'ed\'e0\'eb\'fb \'e2 \'e4\'e8\'ea\'f2\'ee\'f4\'ee\'ed\'e5 v2 *** \'a9 Matr!x, \'a7 ZH-Soft\par
+\cf0\lang1033\b0\f1\fs16 0C3ED2: DAA23A3B CC00CC00\par
+0C4156: DAA23A3B CC00CC00\par
+0C47EC: DAA23A3B CC00CC00\par
+0C4828: DAA23A3B CC00CC00\par
+\lang1049 6FE1D8: DAA23A3B CC00CC00\par
+701890: DAA23A3B CC00CC00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 \'ef\'f0\'e8 \'c2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e8/\'c2\'fb\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e8 \'f1\'e8\'e3\'ed\'e0\'eb\'ee\'e2 *** \'a9 Matr!x, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 0D2D5A:  DA2E56B6 CC00CC00 \b\f0\fs18 ;\'f3\'e1\'f0\'e0\'f2\'fc \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 "\'c2\'f1\'e5 \'f1\'e8\'e3\'ed\'e0\'eb\'fb \'e2\'fb\'ea\'eb\'fe\'f7\'e5\'ed\'fb"\b0\f1\fs16\par
+0D2D70:  DA2E56B6 CC00CC00 \b\f0\fs18 ;\'f3\'e1\'f0\'e0\'f2\'fc \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 "\'c2\'f1\'e5 \'f1\'e8\'e3\'ed\'e0\'eb\'fb \'e2\'ea\'eb\'fe\'f7\'e5\'ed\'fb"\b0\f1\fs16\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d3\'e1\'f0\'e0\'f2\'fc \'ef\'ee\'eb\'fc\'f1\'ea\'e8\'e9 \'e8\'e7 \'ec\'e5\'ed\'fe \'e2\'fb\'e1\'ee\'f0\'e0 \'ff\'e7\'fb\'ea\'ee\'e2 \'e2\'e2\'ee\'e4\'e0 v2.0 *** \'a9 AlexSid\par
+\cf0\lang1033\b0\f1\fs16 #pragma disable warn_if_new_exist_on_apply \par
+680080: 3C90 0000\par
+#pragma enable warn_if_new_exist_on_apply \par
+41AE30: 0000 1501\par
+\b\f0\fs18 ;\lang1049\'ce\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5\lang1033  \lang1049\'e0\'ed\'e3\'eb\lang1033 . \lang1049\'d2\lang1033 9:\par
+\b0\f1\fs16 #pragma disable warn_if_new_exist_on_apply \par
+680038: bc 00\par
+#pragma enable warn_if_new_exist_on_apply \par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'d3\'e1\'f0\'e0\'f2\'fc \'e7\'e0\'ef\'ff\'f2\'f3\'fe \'ec\'e5\'e6\'e4\'f3 \'f4\'e0\'ec\'e8\'eb\'e8\'e5\'e9 \'e8 \'e8\'ec\'e5\'ed\'e5\'ec \'ef\'f0\'e8 \'e2\'f5\'ee\'e4\'ff\'f9\'e5\'ec \'e7\'e2\'ee\'ed\'ea\'e5 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 3FB9A6: 2C 20\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 "\'cf\'ee\'e6\'e0\'eb\'f3\'e9\'f1\'f2\'e0, \'ef\'ee\'e4\'ee\'e6\'e4\'e8\'f2\'e5" \'e2 Card-Explorer *** \'a9 Matr!x, \'a7 AlexSid\par
+\cf0\lang1033\b0\f1\fs16 15D9B8: DA9978BA CC00CC00\par
+165B7E: DA9978BA CC00CC00\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 "\'ce\'f1\'f2\'e0\'eb\'ee\'f1\'fc XX \'f1\'ed\'e8\'ec\'ea\'ee\'e2" *** \'a9 Creat0r, \'ae SiNgle, ValeraVi, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 1073FA: 3D03 CC00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d3\'e1\'e8\'f0\'e0\'e5\'ec \'e7\'e0\'ef\'ff\'f2\'f3\'fe \'e2 \'e0\'e4\'f0\'e5\'f1\'ed\'ee\'e9 \'ea\'ed\'e8\'e3\'e5 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf0\lang1033\b0\f1\fs16 4A9268: DA901C5B CC00CC00\par
+4A73F4: DA901C5B CC00CC00\par
+4A7BF8: DA901C5B CC00CC00\par
+4A7D36: DA901C5B CC00CC00\par
+4A7DEE: DA901C5B CC00CC00\par
+4AED4A: DA901C5B CC00CC00\par
+4C0480: DA901C5B CC00CC00\par
+4C05A2: DA901C5B CC00CC00\par
+4C16AC: DA901C5B CC00CC00\par
+4E1E7A: DA901C5B CC00CC00\par
+\lang1049 4F3572: DA901C5B CC00CC00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d3\'e1\'f0\'e0\'f2\'fc \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 "\'d1\'ef\'e8\'f1\'ee\'ea \'ef\'f3\'f1\'f2!" *** \'a9 Matr!x, \'a7 AlexSid\par
+\cf1 ;\cf5\'c2\'ec\'e5\'f1\'f2\'ee \'ed\'e5\'e3\'ee \'ee\'f2\'ee\'e1\'f0\'e0\'e6\'e0\'e5\'f2\'f1\'ff \'ef\'f3\'f1\'f2\'ee\'e9 \'f1\'ef\'e8\'f1\'ee\'ea  \par
+\cf1 ;\cf0 Released: 28.01.04\par
+\b0\f1\fs16 4FB776: FA9972B4 CC00CC00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d3\'e1\'f0\'e0\'f2\'fc \'e2\'ee\'ef\'f0\'ee\'f1 "\'c2\'f1\'e5\'e3\'e4\'e0 \'f0\'e0\'e7\'f0\'e5\'f8\'e0\'f2\'fc \'f1\'e5\'f2\'e5\'e2\'fb\'e5 \'ef\'ee\'e4\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'ff" \'c4\'e0/\'cd\'e5\'f2? *** \'a9 \lang1033 SiNgle\lang1049 , \'a7 \lang1033 AlexSid\lang1049\par
+\cf1 ;\cf0\lang1033 Released\lang1049 : 15.01.03\par
+\b0\f1\fs16 742CD2: 2D04 CC00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'ef\'ee\'e4\'f2\'e2\'e5\'f0\'e6\'e4\'e5\'ed\'e8\'ff \'e2\'fb\'e7\'ee\'e2\'e0 \'f4\'f3\'ed\'ea\'f6\'e8\'e8 \'ef\'ee \'eb\'e5\'e2\'ee\'e9 \'f1\'ee\'f4\'f2-\'ea\'eb\'e0\'e2\'e8\'f8\'e5 *** \'a9 Skylord, \'a7 AlexSid\par
+\cf1 ;\cf0 Release : Jan 8, 2004\par
+\cf1 ;\cf5\'d2\'e5\'ef\'e5\'f0\'fc \'ef\'f0\'e8 \'ed\'e0\'e6\'e0\'f2\'e8\'e8 \'ed\'e0 \'eb\'e5\'e2\'f3\'fe \'f1\'ee\'f4\'f2-\'ea\'eb\'e0\'e2\'e8\'f8\'f3 \'f1\'f0\'e0\'e7\'f3 \'e2\'fb\'e7\'fb\'e2\'e0\'e5\'f2\'f1\'ff \'ed\'e0\'e7\'ed\'e0\'f7\'e5\'ed\'ed\'e0\'ff \'ed\'e0 \'ed\'e5\'e5 \'f4\'f3\'ed\'ea\'f6\'e8\'ff\par
+\cf1 ;\cf4 !\'cf\'ee\'f1\'eb\'e5 \'f3\'f1\'f2\'e0\'ed\'ee\'e2\'ea\'e8 \'ef\'e0\'f2\'f7\'e0 \'ef\'e5\'f0\'e5\'ee\'ef\'f0\'e5\'e4\'e5\'eb\'e8\'f2\'fc \'f4\'f3\'ed\'ea\'f6\'e8\'fe \'ed\'e0 \'eb\'e5\'e2\'ee\'e9 \'f1\'ee\'f4\'f2-\'ea\'ed\'ee\'ef\'ea\'e5\par
+\cf1 ;\cf4\'cd\'c5\'c2\'ce\'c7\'cc\'ce\'c6\'cd\'ce \'e1\'e5\'e7 \'ee\'f2\'ec\'e5\'ed\'fb \'ef\'e0\'f2\'f7\'e0!\par
+\cf0\b0\f1\fs16 0D5BE4: 1E5F A85A\par
+0D5A82: 2D1248D22D1046FD0C002D1EEA00B861 EA201E5F48D22D0F46FD0C002D1D0D1A ;v2\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'ff "\'c1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'ea\'e0 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'fb \'e2\'ea\'eb\'fe\'f7\'e5\'ed\'e0" *** \'a9 avkiev, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 0D2D1C: DA2D 0D01\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'f4\'f3\'ed\'ea\'f6\'e8\'ee\'ed\'e0\'eb\'fc\'ed\'fb\'f5 \'ea\'eb\'e0\'e2\'e8\'f8 \'e2\'ee \'e2\'f0\'e5\'ec\'ff \'e2\'f5\'ee\'e4\'ff\'f9\'e5\'e3\'ee \'e7\'e2\'ee\'ed\'ea\'e0,\par
+\cf1 ;\cf2 *** \'f7\'f2\'ee\'e1\'fb \'ef\'f0\'e8\'ed\'e8\'ec\'e0\'f2\'fc \'e8\'eb\'e8 \'ee\'f2\'ea\'eb\'ee\'ed\'ff\'f2\'fc \'e5\'e3\'ee \'f2\'ee\'eb\'fc\'ea\'ee "\'e7\'e5\'eb\'e5\'ed\'ee\'e9" \'e8 "\'ea\'f0\'e0\'f1\'ed\'ee\'e9" \'ea\'ed\'ee\'ef\'ea\'e0\'ec\'e8.\par
+\cf1\lang1033 ;\cf2\'a9 Skylord, Matr!x\par
+\cf0\b0\f1\fs16 3830C4: 05 00\par
+3830C8: 3600 FFFF\par
+3830CA: 3E 00\par
+3830CE: 2C02 FFFF\par
+3830E2: 5C 00\par
+\lang1049 3830E6: 5C02 FFFF\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'ce\'f2\'ec\'e5\'ed\'e0 \'e2\'ee\'ef\'f0\'ee\'f1\'e0 \'ee \'ea\'ee\'ef\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'e8 \'e0\'e4\'f0\'e5\'f1\'ed\'ee\'e9 \'ea\'ed\'e8\'e3\'e8 \'ef\'f0\'e8 \'e7\'e0\'ec\'e5\'ed\'e5 SIM-\'ea\'e0\'f0\'f2\'fb ***\par
+\cf1 ;\cf2 *** \'ce\'f2\'ec\'e5\'ed\'e0 \'e2\'ee\'ef\'f0\'ee\'f1\'e0 \'ee \'f1\'ef\'f0\'e0\'e2\'ee\'f7\'ed\'e8\'ea\'e5 \'ef\'ee \'f3\'ec\'ee\'eb\'f7\'e0\'ed\'e8\'fe \'ef\'f0\'e8 \'e7\'e0\'ec\'e5\'ed\'e5 SIM-\'ea\'e0\'f0\'f2\'fb *** \'a9 ACiD [mrp]\par
+\cf0\lang1033\b0\f1\fs16 4EFA6A: DA8C8C90 E6FC1000\par
+4EFA6E: 48403D04 DA2EA4B8\par
+4EFA72: DA8C0CBF FA6E96FA\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1049\'ce\'f2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5\lang1033  \lang1049\'e2\'e5\'f0\'e8\'f4\'e8\'ea\'e0\'f6\'e8\'e8\lang1033  JAVA-\lang1049\'ea\'eb\'e0\'f1\'f1\'ee\'e2\lang1033  *** \'a9 ACiD[mrp], SiNgle, Chaos\par
+\cf1\lang1049 ;\cf5\'d3\'f1\'ea\'ee\'f0\'ff\'e5\'f2 \'e7\'e0\'ef\'f3\'f1\'ea \'ec\'e8\'e4\'eb\'e5\'f2\'ee\'e2 \'ed\'e0 30-70%\par
+\cf0\b0\f1\fs16 7584A8: 3D 0D ; Author : \par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d3\'e1\'f0\'e0\'f2\'fc \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 "\'cf\'ee\'eb\'f3\'f7\'e5\'ed\'ee \'ed\'ee\'e2\'ee\'e5 \'d1\'cc\'d1" \lang1033 v\lang1049 1.0 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf0\lang1033\b0\f1\fs16 0E9BC0: F0C6F0D7 CC00CC00\par
+0E9BC4: E6FE2700 CC00CC00\par
+0E9BC8: DA2E56B6 CC00CC00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1049\'d3\'e4\'e0\'eb\'e8\'f2\'fc\lang1033  \lang1049\'f1\'ee\'f4\'f2\lang1033 -\lang1049\'ea\'ed\'ee\'ef\'ea\'e8\lang1033  \lang1049\'f1\lang1033  \lang1049\'fd\'ea\'f0\'e0\'ed\'e0\lang1033  v3 *** \'a9 SiNgle, \'a7 AlexSid, \'ae ValeraVi\par
+\cf1\lang1049 ;\cf0\lang1033 Released\lang1049  10.01.03\par
+\b0\f1\fs16 0D5746: 2D 0D \b\f0\fs18 ;\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc \'f7\'e0\'f1\'fb \'e2 \'ed\'e8\'e7 \'fd\'ea\'f0\'e0\'ed\'e0\b0\f1\fs16\par
+0D5824: 3D05 CC00 \b\f0\fs18 ;\'f3\'e4\'e0\'eb\'e8\'f2\'fc \'ea\'ed\'ee\'ef\'ea\'f3 \'ec\'e5\'ed\'fe\b0\f1\fs16\par
+\lang1033 0D5A0E: 3D02 CC00\par
+0D5A7C: 0e 04\par
+0D5A92: DA2DA49B FA2D305C\par
+0D668C: 3D0D CC00\par
+\lang1049 0D6696: 3D08 CC00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d3\'e1\'f0\'e0\'f2\'fc \'e7\'e0\'e3\'ee\'eb\'ee\'e2\'ee\'ea \'e8 \'f0\'e0\'f1\'f2\'ff\'ed\'f3\'f2\'fc \'e3\'eb\'e0\'e2\'ed\'ee\'e5 \'ec\'e5\'ed\'fe v2 *** \'a9 Matr!x, \'a7 kay\par
+\cf1 ;\cf0\lang1033 Released\lang1049 : 21.06.04\par
+\b0\f1\fs16 05\lang1033 A\lang1049 1\lang1033 C\lang1049 6: \lang1033 DA\lang1049 9\lang1033 B\lang1049 10\lang1033 A\lang1049 0 \lang1033 CC\lang1049 00\lang1033 CC\lang1049 00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d3\'e4\'e0\'eb\'e5\'ed\'e8\'e5 \'e7\'ed\'e0\'f7\'ea\'ee\'e2 \'f1 \'e3\'eb\'e0\'e2\'ed\'ee\'e3\'ee \'fd\'ea\'f0\'e0\'ed\'e0 *** \'a9!Freeman!\par
+\cf1 ;\cf4 !\'cd\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee \'f3\'f1\'f2\'e0\'ed\'ee\'e2\'e8\'f2\'fc \'ef\'e0\'f2\'f7 "\'d3\'ec\'e5\'ed\'fc\'f8\'e5\'ed\'e8\'e5 \'f0\'e0\'e7\'ec\'e5\'f0\'e0 \'f8\'f0\'e8\'f4\'f2\'e0 \'e4\'e0\'f2\'fb \'e8 \'e2\'f0\'e5\'ec\'e5\'ed\'e8 \'ed\'e0 \'e3\'eb\'e0\'e2\'ed\'ee\'ec \'fd\'ea\'f0\'e0\'ed\'e5"\par
+\cf1 ;\cf5\'d3\'e1\'f0\'e0\'f2\'fc \'e7\'ed\'e0\'f7\'ee\'ea \'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'ed\'ee\'e3\'ee \'ed\'e0\'ef\'ee\'ec\'e8\'ed\'e0\'ed\'e8\'ff \'ed\'e0 \'e3\'eb.\'fd\'ea\'f0\'e0\'ed\'e5:\par
+\cf0\b0\f1\fs16 00234725: 0718 0000\par
+00234729: 2\lang1033 C\lang1049  00\par
+0023472\lang1033 C\lang1049 : 3\lang1033 C\lang1049  00\par
+0023472\lang1033 F\lang1049 : 3\lang1033 C\lang1049  00\par
+00234732: 7\lang1033 E\lang1049  00\par
+00234735: 10 00\par
+00234738: 20 00\par
+00234744: 05 00\par
+\cf1\b\f0\fs20 ;\cf5\'d3\'e1\'f0\'e0\'f2\'fc \'e7\'ed\'e0\'f7\'ee\'ea \'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'ed\'ee\'e3\'ee \'e1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea\'e0 (\'f0\'ff\'e4\'ee\'ec \'f1 \'f7\'e0\'f1\'e0\'ec\'e8):\par
+\cf0\b0\f1\fs16 002346\lang1033 E\lang1049 1: 44 00\par
+00234707: 20 00\par
+0023470\lang1033 A\lang1049 : 48 00\par
+0023470\lang1033 D\lang1049 : 50 00\par
+00234710: 52 00\par
+00234713: 50 00\par
+00234716: 48 00\par
+00234719: 20 00\par
+\par
+\par
+\cf1\b\f0\fs28 ;\cf4\highlight6\'d0\'e0\'e7\'ed\'fb\'e5 \'ef\'e0\'f2\'f7\'e8\cf0\highlight0\b0\f1\fs16\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c4\'e0\'f2\'e0 \'e2\'ed\'e8\'e7\'f3 (\'ed\'e0 \'e3\'eb\'e0\'e2\'ed\'ee\'ec \'fd\'ea\'f0\'e0\'ed\'e5) \'e2 \'e2\'e8\'e4\'e5 \'cf\'ed 08 \'c4\'e5\'ea v0.3b *** \'a9 SiNgle & ALex_itd, \'a7 AlexSid\par
+\cf1 ;\cf4 !\'d2\'e5\'ef\'e5\'f0\'fc \'e4\'e0\'f2\'e0 \'ef\'e8\'f8\'e5\'f2\'f1\'ff \'f2\'ee\'eb\'fc\'ea\'ee \'ed\'e0 \'e3\'eb\'e0\'e2\'ed\'ee\'ec \'fd\'ea\'f0\'e0\'ed\'e5 \'e8 \'e1\'ee\'eb\'fc\'f8\'e5 \'ed\'e8\'e3\'e4\'e5.\par
+\cf1\lang1033 ;\cf0 Released 07.12.03\par
+\b0\f1\fs16 0D5862: E077 E0D7\par
+0D589C: 2D02 CC00\par
+0035b280: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 889088808860D460060046F60D003D65\par
+0035b290: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF F09FF08EE6F19B9BDC49B81808828880\par
+0035b2A0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 889088C088D0DABF90CB68475C14D740\par
+0035b2B0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 5601D4145E3398D098C098909880DC49\par
+0035b2C0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF B8180882E6F19191DC49B8180882E7F2\par
+0035b2D0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 2000DC49B9285044DC4DF48C0300E0A5\par
+0035b2E0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF F6F40EFED1004B55CC00F2F50EFE06F5\par
+0035b2F0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 3000F015F2F50CFE06F530005C857015\par
+0035b300: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DC59E4280100E4380200E7F22000DC49\par
+0035b310: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E42803000884E6F19B9BDC49B8180882\par
+0035b320: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 5044DC4DF48C020028415C2406F46C33\par
+0035b330: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D7405601A8140842D7405601A944E105\par
+0035b340: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DC79B928E4380100E4480200E4580300\par
+0035b350: FFFFFFFFFFFFFFFFFFFFFFFFFFFF 0884986098809890DB00FABFB8D3\par
+0035b35E: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 1F3D1242214027421F42213112412F3D\par
+0035b36E: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 3200243532001C304000103F40001C30\par
+0035b37E: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 3900184E3D00184E3B00103233002135\par
+0035b38E: FFFFFFFFFFFFFFFFFFFFFFFFFFFF 3D001E3A42001D3E4F0014353A00\par
+\lang1049 9\lang1033 FD\lang1049 7\lang1033 AA\lang1049 : \lang1033 DABFB\lang1049 2\lang1033 D\lang1049 3 \lang1033 DA\lang1049 5580\lang1033 B\lang1049 2\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c7\'e2\'f3\'ea\'ee\'e2\'ee\'e9 \'f1\'e8\'e3\'ed\'e0\'eb \'e8 \'e2\'f1\'ef\'fb\'f8\'ea\'e0 \'e2\'e5\'f0\'f5\'ed\'e8\'f5 \'f1\'e2\'e5\'f2\'ee\'e4\'e8\'ee\'e4\'ee\'e2 \'ea\'e0\'e6\'e4\'fb\'e9 \'f7\'e0\'f1 \lang1033 v\lang1049 2 *** \'a9 \lang1033 SiNgle\lang1049 , \'a7 \lang1033 AlexSid\lang1049\par
+\cf1 ;\cf4 !\'cd\'e5\'f1\'ee\'e2\'ec\'e5\'f1\'f2\'e8\'ec \'f1 \'ef\'e0\'f2\'f7\'e5\'ec "\'c2\'f0\'e5\'ec\'ff \'e2\'ec\'e5\'f1\'f2\'ee \'ed\'e0\'e7\'e2\'e0\'ed\'e8\'ff \'ee\'ef\'e5\'f0\'e0\'f2\'ee\'f0\'e0"\par
+\cf1 ;\cf4 !\'c5\'f1\'eb\'e8 \'e2\'f1\'e5 \'f1\'e8\'e3\'ed\'e0\'eb\'fb \'e2\'fb\'ea\'eb\'fe\'f7\'e5\'ed\'fb, \'f2\'ee \'f2\'ee\'eb\'fc\'ea\'ee \'ec\'e8\'e3\'e0\'e5\'f2 \'e4\'e8\'ee\'e4\'e0\'ec\'e8\par
+\cf1 ;\cf4 !\'c4\'ee\'eb\'e6\'e5\'ed \'e1\'fb\'f2\'fc \'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed \'ef\'e0\'f2\'f7 "\'c4\'e0\'f2\'e0 \'e2\'ed\'e8\'e7\'f3 (\'ed\'e0 \'e3\'eb\'e0\'e2\'ed\'ee\'ec \'fd\'ea\'f0\'e0\'ed\'e5) \'e2 \'e2\'e8\'e4\'e5 \'cf\'ed 08 \'c4\'e5\'ea "\par
+\cf1 ;\cf4 !\'ca\'ee\'e3\'e4\'e0 \'f2\'e5\'eb \'e2 \'e4\'f0\'f3\'e3\'e8\'f5 \'f0\'e5\'e6\'e8\'ec\'e0\'f5 (\'e7\'e0\'f1\'f2\'e0\'e2\'ea\'e0, \'ed\'e0\'ef\'f0\'e8\'ec\'e5\'f0) - \'ef\'e0\'f2\'f7 \'ed\'e5 \'f0\'e0\'e1\'ee\'f2\'e0\'e5\'f2!\par
+\cf1\lang1033 ;\cf0 Released 08.01.04\par
+\b0\f1\fs16 35B286: D4600600 DA5550B0\par
+35b050: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 88708880889088C088D088E088F0D740\par
+35b060: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 0D00F2FCFE23E0ADF6FC0EFED1004BDD\par
+35b070: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF F2FC0EFE06FC3000F0ECF2FC0CFE06FC\par
+35b080: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 30005C8C70ECD7400D00F2FCFC23CA00\par
+35b090: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF A6B098F098E098D098C0989098809870\par
+35b0A0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D4600600DB0088C048C12D1F48C03D1B\par
+35b0B0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D7400D00F2FCF02348C12D15E6FC4100\par
+35b0C0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DAA2AA39E02CE6FD6400E00EDA9F7475\par
+35b0D0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E02CE00DE6FE0004DA9F7475E01CD740\par
+35b0E0: FFFFFFFFFFFFFFFFFFFFFFFFFFFF 0D00F6FCF02398C0CB00E00C0DF8\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1049\'c2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5\lang1033  \lang1049\'c8\'ed\'e6\'e5\'ed\'e5\'f0\'ed\'ee\'e3\'ee\lang1033  \lang1049\'ec\'e5\'ed\'fe\lang1033  \lang1049 ***\par
+\cf0\b0\f1\fs16 80177A: 2D 0D\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'d3\'f1\'f2\'e0\'ed\'ee\'e2\'ea\'e0 "\'f1\'e5\'f0\'fb\'f5" \'f2\'e5\'eb\'e5\'f4\'ee\'ed\'ee\'e2 \'ed\'e0 \'ef\'e5\'f0\'e2\'f3\'fe \lang1033 (\lang1049\'e3\'eb\'e0\'e2\'ed\'f3\'fe\lang1033 ) PIT-\lang1049\'f2\'e0\'e1\'eb\'e8\'f6\'f3\lang1033  *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf0\b0\f1\fs16 362AAA: 40195501 00004201\par
+362AC0: 5601 4201\par
+362AD2: 08185601 00004201\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** BFB patch *** \'a9ACiD[mrp]\par
+\cf1\lang1049 ;\cf5\'c8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2\'f1\'ff \'ef\'f0\'ee\'e3\'e0\'ec\'e8, \'ea\'ee\'f2\'ee\'f0\'fb\'e5 \'f0\'e0\'e1\'ee\'f2\'e0\'fe\'f2 \'f1 \'f2\'e5\'eb\'ee\'ec \'f7\'e5\'f0\'e5\'e7 BFB mode\par
+\cf1\lang1033 ;\cf5\lang1049\'cd\'e0\'ef\'f0\'e8\'ec\'e5\'f0\lang1033  Siemens Debugger, Siemens Screenshot \lang1049\'ee\'f2\lang1033  ACiD[mrp] \lang1049\'e8\lang1033  \lang1049\'f2\lang1033 . \lang1049\'ef\lang1033 .\par
+\cf0\lang1049\b0\f1\fs16 7E6918: 6E 58\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c1\'ee\'eb\'fc\'f8\'e8\'e5 \'f6\'e8\'f4\'f0\'ee\'e2\'fb\'e5 \'f7\'e0\'f1\'fb, \'ea\'e0\'ea \'e7\'e0\'f1\'f2\'e0\'e2\'ea\'e0 *** \'a9 Matr!x, \'a7 =NeoSpb=\par
+\cf1 ;\cf4 !\'c4\'ee\'eb\'e6\'e5\'ed \'e1\'fb\'f2\'fc \'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed \'ef\'e0\'f2\'f7 "\'c1\'ee\'eb\'fc\'f8\'e8\'e5 \'f6\'e8\'f4\'f0\'ee\'e2\'fb\'e5 \'f7\'e0\'f1\'fb"\par
+\cf1 ;\cf4 !\'cd\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee \'e2\'fb\'e1\'f0\'e0\'f2\'fc "\'c7\'e0\'f1\'f2\'e0\'e2\'ea\'e0->\'d1\'f2\'e8\'eb\'fc->\'c0\'ed\'e0\'eb\'ee\'e3. \'f7\'e0\'f1\'fb"\par
+\cf0\b0\f1\fs16 0E671A: 88908880 FA5500B4\par
+;0DD650: DA5500B4 E6FCB101 \b\f0\fs18 ;\'ed\'e5 \'ef\'ee\'ea\'e0\'e7\'fb\'e2\'e0\'f2\'fc \'f6\'e8\'f4\'f0\'ee\'e2\'fb\'e5 \'f7\'e0\'f1\'fb \'ef\'f0\'e8 \'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'ea\'e5 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'fb\par
+\b0\f1\fs16\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c0\'e2\'f2\'ee\'ec\'e0\'f2\'e8\'f7\'e5\'f1\'ea\'ee\'e5 \'e2\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e5 \'f2\'e5\'eb\'e5\'f4\'ee\'ed\'e0 \'ef\'ee \'e1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea\'f3 *** \'a9 SiNgle, \'a7 !Freeman!\par
+\cf1 ;\cf4 !\'cd\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee \'f1\'ec\'e5\'ed\'e8\'f2\'fc \'ec\'e5\'eb\'ee\'e4\'e8\'fe \'e1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea\'e0\par
+\cf0\b0\f1\fs16 053458: EA00 0D2B\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'cc\'e5\'eb\'ee\'e4\'e8\'ff \'ef\'f0\'e8 \'f3\'ef\'f3\'f9\'e5\'ed\'ed\'ee\'ec \'e1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea\'e5 v1.1 *** \'a9 Matr!x, \'a7 !Freeman!\par
+\cf1 ;\cf5\'cf\'f0\'e0\'e2\'e0\'ff \'f1\'ee\'f4\'f2-\'ea\'ed\'ee\'ef\'ea\'e0 "\'cf\'e0\'f3\'e7\'e0" \'e8\'eb\'e8 \'eb\'fe\'e1\'e0\'ff \'ea\'ed\'ee\'ef\'ea\'e0: \'ef\'ee\'e2\'f2\'ee\'f0 \'e1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea\'e0 \'ea\'e0\'e6\'e4\'fb\'e5 5 \'ec\'e8\'ed\'f3\'f2\par
+\cf1 ;\cf5\'cb\'e5\'e2\'e0\'ff \'f1\'ee\'f4\'f2-\'ea\'ed\'ee\'ef\'ea\'e0 "\'c2\'fb\'ea\'eb": \'ee\'f2\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'ef\'ee\'e2\'f2\'ee\'f0 \'e8 \'e1\'f3\'e4\'e8\'eb\'fc\'ed\'e8\'ea\par
+\cf0\b0\f1\fs16 35DC20: FFFFFFFFFFFFFFFF DA29DEFFFAA2CE41\par
+35DC30: FFFFFFFFFFFFFFFF DAA09860FAA2CE41\par
+\lang1033 3BDB4A: 4E01 4800\par
+3BDB50: 4800 4E01\par
+4C75BF: 0F 1C\par
+4C75DD: 0D 00\par
+4C75ED: A09860 5530DC\par
+4C760D: A09860 5530DC\par
+4C7624: 3D04 CC00\par
+4C762E: FAA2CE41 CC00CC00\par
+\lang1049 4C7FB9: 29DEFF 5520DC\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c2\'f1\'ef\'fb\'f8\'ea\'e0 \'e4\'e8\'ee\'e4\'ee\'e2 \'ef\'f0\'e8 \'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'ea\'e5 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'fb \'e8 \'e2\'fb\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'e8 \'e7\'e2\'f3\'ea\'e0 v2 *** \'a9 Matr!x, \'a7 !Freeman!\par
+\cf0\lang1033\b0\f1\fs16 0D2D20: DA98A08F DA5570D0\par
+0D2D4E: DAA2FA3E DA55C0D0\par
+35D070: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DA98A08FE03CE6FD6400E00EDA9F7475\par
+35D080: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E03CE00DE6FE0004DA9F7475E01CE02C\par
+35D090: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FD6400E00EDA9F7475E02CE00DE6FE\par
+35D0A0: FFFFFFFFFFFFFFFF 0004FA9F7475E01C\par
+35D0C0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DAA2FA3EE03CE6FD6400E00EDA9F7475\par
+35D0D0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E03CE00DE6FE0004DA9F7475E01CE02C\par
+35D0E0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FD6400E00EDA9F7475E02CE00DE6FE\par
+35D0F0: FFFFFFFFFFFFFFFF 0004FA9F7475E01C\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'ca\'ee\'e4 \'f2\'e5\'eb\'e5\'f4\'ee\'ed\'e0 \'ed\'e0 \'ef\'f0\'ee\'f1\'ec\'ee\'f2\'f0 \'ee\'f2\'ef\'f0\'e0\'e2\'eb\'e5\'ed\'ed\'fb\'f5 SMS *** \'a9 ACiD[mrp], \'a7 AlexSid\par
+\cf0\lang1033\b0\f1\fs16 0A003F: 2A7410 559071\par
+0A004B: 2A7410 559071\par
+0A10B3: 2A7410 559071\par
+357178: FFFFFFFFFFFFFFFF 000000000600D49E\par
+357180: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 2E00E00008FE21004E280A009C715500\par
+357190: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FC7871E6FD5501FA2E06F2E00CE00D\par
+3571A0: FFFFFFFFFFFFFFFF E00EE00FFA2A7410\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'ca\'ee\'e4 \'f2\'e5\'eb\'e5\'f4\'ee\'ed\'e0 \'ed\'e0 \'ef\'f0\'ee\'f1\'ec\'ee\'f2\'f0 \'e2\'f5\'ee\'e4\'ff\'f8\'e8\'f5 SMS ***\cf0\b0\f1\fs16  \cf2\b\f0\fs20\'a9 ACiD[mrp], \'a7 AlexSid\par
+\cf0\lang1033\b0\f1\fs16 0A0009: 2AD60C 556071\par
+0A001B: 2AD60C 556071\par
+0A0D23: 2AD60C 556071\par
+357148: FFFFFFFFFFFFFFFF 000000000600D49E\par
+357150: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 2E00E00008FE21004E280A006C715500\par
+357160: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FC4871E6FD5501FA2E06F2E00CE00D\par
+357170: FFFFFFFFFFFFFFFF E00EE00FFA2AD60C\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1049\'cf\'f0\'ee\'f1\'ec\'ee\'f2\'f0\lang1033  \lang1049\'ed\'ee\'e2\'fb\'f5\lang1033  SMS \lang1049\'ef\'f0\'e8\lang1033  \lang1049\'e7\'e0\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'ee\'e9\lang1033  \lang1049\'ea\'eb\'e0\'e2\'e5\lang1033  *** \'a9 ValeraVi,\'a7AlexSid\par
+\cf1\lang1049 ;\cf0 Release: 2004.04.03\par
+\cf1 ;\cf4\'cf\'ee\'f1\'eb\'e5 \'ef\'f0\'ee\'f1\'ec\'ee\'f2\'f0\'e0 \'ed\'ee\'e2\'fb\'f5 SMS \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'e0 \'ee\'f1\'f2\'e0\'e5\'f2\'f1\'ff \'f0\'e0\'e7\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'ee\'e9\par
+\cf1 ;\cf4\'e8 \'e2\'fb \'e4\'ee\'eb\'e6\'ed\'fb \'e5\'e5 \'e7\'e0\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'e0\'f2\'fc \'e2\'f0\'f3\'f7\'ed\'f3\'fe, \'e5\'f1\'eb\'e8 \'ed\'f3\'e6\'ed\'ee!\par
+\cf1 ;\cf4\'d7\'e8\'f2\'e0\'e9\'f2\'e5 \'ed\'e8\'e6\'e5, \'e5\'f1\'eb\'e8 \'f5\'ee\'f2\'e8\'f2\'e5 \'fd\'f2\'ee \'e8\'e7\'ec\'e5\'ed\'e8\'f2\'fc.\par
+\cf0\lang1033\b0\f1\fs16 0D6198: DC59D4C80400 FA55F4B1DC49\par
+0E6568: DC49A888 FA55E0B1\par
+35B1E0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DC49A8883D05BB2548802D02FA2E0466\par
+35B1F0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF FA2E6C65F078F0C90874DC5CD4E70200\par
+35B200: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF A8D7DC4ED4FD040046FF9401EA2028B2\par
+35B210: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DC49D4D8020046FD48002D0346FD4A00\par
+35B220: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 3D03BB07FA2DB661DC59D4C80400FA2D\par
+35B230: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 9C61DA2B54C148422D0248433D0BDA98\par
+35B240: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF AA8FDA2D2A6CE00CE00DE00EE00FDA2B\par
+35B250: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF AA390D0EDA214CBE70453D04DA2128BE\par
+35B260: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 70452D08DA98AA8FDA2D2A6CDA6FBAB8\par
+35B270: FFFFFFFFFFFFFFFF E018CB00E008CB00\par
+35B254: DA214CBE CC00CC00\par
+35B258: 70453D04DA2128BE CC00CC00CC00CC00\par
+\lang1049 35B260: 70452D CC000D\par
+\cf1\b\f0\fs20 ;\cf5\'d7\'f2\'ee\'e1\'fb \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'e0 \'ee\'f1\'f2\'e0\'e2\'e0\'eb\'e0\'f1\'fc \'e7\'e0\'e1\'ee\'eb\'ea\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'ee\'e9 \'ef\'ee\'f1\'eb\'e5 \'ef\'f0\'ee\'f1\'ec\'ee\'f2\'f0\'e0, \'f3\'e1\'e5\'f0\'e8\'f2\'e5\par
+\cf1 ;\cf5\'f1\'e8\'ec\'e2\'ee\'eb \'ea\'ee\'ec\'ec\'e5\'ed\'f2\'e0\'f0\'e8\'ff \'f1\'ee \'f1\'eb\'e5\'e4\'f3\'fe\'f9\'e5\'e9 \'f1\'f2\'f0\'ee\'ea\'e8 \'ef\'e0\'f2\'f7\'e0: (\'ef\'f0\'e8 \'fd\'f2\'ee\'ec \'ef\'ee\'e4\'f1\'e2\'e5\'f2\'ea\'e0\par
+\cf1 ;\cf5\'e1\'f3\'e4\'e5\'f2 \'e2\'ea\'eb\'fe\'f7\'e5\'ed\'e0 \'f2\'ee\'eb\'fc\'ea\'ee ~ 1 \'ec\'e8\'ed \'ed\'e5 \'e7\'e0\'e2\'e8\'f1\'e8\'ec\'ee \'ee\'f2 \'f2\'ee\'e3\'ee, \'f7\'f2\'ee \'e2\'fb \'ed\'e0\'e6\'e8\'ec\'e0\'e5\'f2\'e5 \'ea\'ed\'ee\'ef\'ea\'e8)\par
+\cf0\lang1033\b0\f1\fs16 ;35B23F: 98aa8f a036d2 \b\f0\fs18 ;when show new SMS\b0\f1\fs16\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'d0\'e0\'f1\'f8\'e8\'f0\'e5\'ed\'ed\'fb\'e5 \'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'e8 \'f1\'f2\'f0\'e5\'eb\'ee\'ea \'e2\'e2\'e5\'f0\'f5/\'e2\'ed\'e8\'e7, \'e2\'eb\'e5\'e2\'ee/\'e2\'ef\'f0\'e0\'e2\'ee *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1 ;\cf4 !\'c3\'f0\'ee\'ec\'ea\'ee\'f1\'f2\'fc \'e2 \'e4\'e8\'ea\'f2\'ee\'f4\'ee\'ed\'e5 \'ef\'f0\'e8 \'e7\'e0\'ef\'e8\'f1\'e8 \'e8 \'ef\'f0\'e8 \'e2\'ee\'f1\'ef\'f0\'ee\'e8\'ee\'e7\'e2\'e5\'e4\'e5\'ed\'e8\'e8 \'ea\'eb\'e0\'e2\'e8\'f8\'e0\'ec\'e8 \'e2\'e2\'e5\'f0\'f5/\'e2\'ed\'e8\'e7\par
+\cf1 ;\cf4 !\'cf\'e5\'f0\'e5\'ec\'ee\'f2\'ea\'e0 \'e4\'eb\'e8\'ed\'ed\'fb\'f5 e-mail \'e8 SMS \'f1\'f0\'e0\'e7\'f3 \'ef\'ee \'f1\'f2\'f0\'e0\'ed\'e8\'f6\'e0\'ec \'ea\'eb\'e0\'e2\'e8\'f8\'e0\'ec\'e8 \'e2\'eb\'e5\'e2\'ee/\'e2\'ef\'f0\'e0\'e2\'ee\par
+\cf0\lang1033\b0\f1\fs16 067802: 0D 27\par
+067808: 0E 26\par
+09E0F0: 0D 26\par
+09E102: 0E 27\par
+0BF8F6: 0E 27\par
+0BF90E: 0D 26\par
+0C274A: 0E 24\par
+0C2750: 0D 25\par
+0C285A: 0E 24\par
+0C2860: 0D 25\par
+0C2A12: 0E 24\par
+0C2A18: 0D 25\par
+0C2B9E: 0E 24\par
+0C2BA4: 0D 25\par
+0C2C52: 0E 24\par
+0C2C58: 0D 25\par
+\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'d1\'ea\'e8\'ed \'e4\'eb\'ff \'f1\'ee\'f4\'f2-\'ea\'ed\'ee\'ef\'ee\'ea (755) *** \'a9 Matr!x, \'a7 kay\par
+\cf1 ;\cf0 Released: 02.04.04\par
+\cf1 ;\cf4 !\'cd\'f3\'e6\'e5\'ed \'ef\'e0\'f2\'f7 \'ea\'e0\'f0\'f2\'e8\'ed\'ea\'e8-\'f1\'ea\'e8\'ed\'e0: http://matrix.on.ufanet.ru/button_skin.rar\par
+\cf1 ;\cf4 !\'c2 \'e0\'f0\'f5\'e8\'e2\'e5 \'ee\'e2\'e0\'eb\'fc\'ed\'e0\'ff \'ea\'e0\'f0\'f2\'e8\'ed\'ea\'e0-\'f1\'ea\'e8\'ed \'e4\'eb\'ff \'f1\'ee\'f4\'f2-\'ea\'ed\'ee\'ef\'ee\'ea, \'f0\'e0\'f1\'f1\'f7\'e8\'f2\'e0\'ed\'e0 \'ed\'e0 \'e1\'e5\'eb\'fb\'e9 \'f4\'ee\'ed.\par
+\cf1 ;\cf4 !\'d3 \'ea\'ee\'e3\'ee \'f1\'f2\'ee\'e8\'f2 \'e4\'f0\'f3\'e3\'ee\'e9 - \'ec\'e5\'ed\'ff\'e5\'ec \'f6\'e2\'e5\'f2 \'e2 \'cf\'e0\'e8\'ed\'f2\'e5.\par
+\cf1 ;\cf4 !\'c8\'eb\'e8 \'ec\'ee\'ff (AlexSid) \'ea\'ed\'ee\'ef\'ea\'e0 http://alexsid.antex.ru/files/Resources/755.rar\par
+\cf0\b0\f1\fs16 775207: 979C55 5560DB\par
+35DB60: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DA979C55E6FEF302E6FC3600E6FD4300\par
+35DB70: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DA2DB2D2E6FEF302E6FC0000E6FD4300\par
+\lang1033 35DB80: FFFFFFFF FA2DB2D2\par
+\par
+\cf1\b\f0\fs20 ;\cf2  *** FlashSMS Sender v3 *** \'a9 SiNgle, \'a7avkiev, \'a7 Trufanov\par
+\cf1\lang1049 ;\cf5\'c4\'eb\'ff \'ee\'f2\'ef\'f0\'e0\'e2\'ea\'e8 \'d4\'eb\'e5\'f8\'d1\'cc\'d1 \'ed\'f3\'e6\'ed\'ee \'ed\'e0\'f7\'e0\'f2\'fc \'f1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 \'f1 \'ef\'f0\'ee\'e1\'e5\'eb\'e0\par
+\cf1 ;\cf5\'d1\'ee\'ee\'e1\'f9\'e5\'ed\'e8\'e5 \'ed\'f3\'e6\'ed\'ee \'f1\'ee\'e7\'e4\'e0\'e2\'e0\'f2\'fc \'f1 \'ed\'f3\'eb\'ff, \'e0 \'ed\'e5 \'f0\'e5\'e4\'e0\'ea\'f2\'e8\'f0\'ee\'e2\'e0\'f2\'fc \'f1\'f2\'e0\'f0\'ee\'e5, \'e8\'eb\'e8 \'ee\'f2\'e2\'e5\'f7\'e0\'f2\'fc\par
+\cf0\b0\f1\fs16 6598E0: E6FE323E FA508271\par
+307182: FFFFFFFFFFFFFFFFFFFFFFFFFFFF 8880E6F88A3DD7400C00F4480300\par
+307190: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 47F420003D10D7400C00A94847F40800\par
+3071A0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 2D08E7F4F00006F8B600D7400C00B948\par
+3071B0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 0D094FF20DF8D7400C00F448040047F4\par
+3071C0: FFFFFFFFFFFFFFFFFFFFFFFFFFFF 20002DE99880E6FE323EFA85E498\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c7\'e2\'f3\'ea\'ee\'e2\'ee\'e9 \'f1\'e8\'e3\'ed\'e0\'eb \'ef\'f0\'e8 \'ef\'f0\'ee\'ef\'f3\'f9\'e5\'ed\'ed\'ee\'ec \'e2\'fb\'e7\'ee\'e2\'e5 *** \'a9 Matr!x, \'a7 ZH-Soft\par
+\cf1 ;\cf4 !\'cd\'f3\'e6\'ed\'ee \'e2\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'e4\'e8\'ed\'e0\'ec\'e8\'f7\'e5\'f1\'ea\'e8\'e9 \'f1\'e2\'e5\'f2, \'e8 \'ed\'e0 \'e2\'f1\'e5 \'e7\'e2\'ee\'ed\'ea\'e8 \'ef\'ee\'f1\'f2\'e0\'e2\'e8\'f2\'fc "\'d2\'f0\'e0\'ed\'f1"\par
+\cf1 ;\cf4 !\'cf\'f0\'e8 \'ee\'f2\'ea\'eb\'fe\'f7\'b8\'ed\'ed\'ee\'ec \'e7\'e2\'f3\'ea\'e5, \'f1\'e8\'e3\'ed\'e0\'eb \'ed\'e5 \'ef\'ee\'e4\'e0\'e5\'f2\'f1\'ff\par
+\cf0\b0\f1\fs16 35D130: FFFF E6FC\par
+35D132: FF 3D \b\f0\fs18 ;01-\'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2\'ed\'fb\'e9, 05-\'ea\'ee\'f0\'ee\'f2\'ea\'e8\'e9 \'e7\'e2\'f3\'ea, 26,3C,3E-\'e3\'f0\'ee\'ec\'ea\'e8\'e5 \'e7\'e2\'f3\'ea\'e8\f1\fs16\par
+\b0 35D133: FFFFFFFFFF 00FAA2AA39\par
+813168: EA00CE32 DA5530D1\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'c0\'e2\'f2\'ee\'e7\'e0\'ef\'f3\'f1\'ea \'f0\'e5\'e6\'e8\'ec\'e0 \'f0\'e0\'e1\'ee\'f2\'fb \'f1 \'ea\'e0\'ec\'e5\'f0\'ee\'e9, \'f1\'f0\'e0\'e7\'f3 \'ef\'ee\'f1\'eb\'e5 \'e5\'e5 \'ef\'ee\'e4\'ea\'eb\'fe\'f7\'e5\'ed\'e8\'ff *** \'a9 ValeraVi, \'a7 AlexSid\par
+\cf1 ;\cf0 Release: 2004-03-08\par
+\cf1 ;\cf4 !\'c5\'f1\'eb\'e8 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'e0 \'e1\'fb\'eb\'e0 \'e7\'e0\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'e0\'ed\'e0, \'f2\'ee \'ef\'ee\'f1\'eb\'e5 \'e2\'fb\'f5\'ee\'e4\'e0 \'e8\'e7 \'f0\'e5\'e6\'e8\'ec\'e0\par
+\cf1 ;\cf4\'f0\'e0\'e1\'ee\'f2\'fb \'f1 \'ea\'e0\'ec\'e5\'f0\'ee\'e9 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'e0 \'ee\'f1\'f2\'e0\'e5\'f2\'f1\'ff \'f0\'e0\'e7\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'ee\'e9 \'e8 \'e2\'fb \'e4\'ee\'eb\'e6\'ed\'fb \'e5\'e5\par
+\cf1 ;\cf4\'e7\'e0\'e1\'eb\'ee\'ea\'e8\'f0\'ee\'e2\'e0\'f2\'fc \'e2\'f0\'f3\'f7\'ed\'f3\'fe, \'e5\'f1\'eb\'e8 \'ed\'f3\'e6\'ed\'ee!\par
+\cf1 ;\cf5\'ca\'e0\'ec\'e5\'f0\'e0 \'e7\'e0\'ef\'f3\'f1\'ea\'e0\'e5\'f2\'f1\'ff \'f2\'ee\'eb\'fc\'ea\'ee \'e8\'e7 \'f0\'e5\'e6\'e8\'ec\'e0 \'e3\'eb\'e0\'e2\'ed\'ee\'e3\'ee \'fd\'ea\'f0\'e0\'ed\'e0\par
+\cf0\b0\f1\fs16 0DD534: E00CE00D DA9F0004\par
+7F0400: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DA2EBAFFE600030048413D0EF3F83000\par
+7F0410: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 3D0DF78F3000DA98AA8FDA2D2A6CDAA0\par
+7F0420: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 36D2DA257E9C0D02F78E3000E00CE00D\par
+7F0430: FFFF DB00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'cc\'e5\'eb\'ee\'e4\'e8\'ff \'ea\'ee\'ed\'ea\'f0\'e5\'f2\'ed\'ee \'ed\'e0 \'ea\'e0\'e6\'e4\'ee\'e3\'ee \'f7\'e5\'eb\'ee\'e2\'e5\'ea\'e0 \'e2 \'e0\'e4\'f0\'e5\'f1\'ed\'ee\'e9 \'ea\'ed\'e8\'e3\'e5 v2 *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1 ;\cf0 Released 05.02.04\par
+\cf1 ;\cf5\'d1\'f2\'e0\'e2\'e8\'f8\'fc \'ed\'e0 \'f7\'e5\'eb\'e0 \'ea\'e0\'f0\'f2\'e8\'ed\'ea\'f3 \'e8\'e7 \'ef\'e0\'ef\'ea\'e8 Pictures, \'ed\'e0\'ef\'f0\'e8\'ec\'e5\'f0 qwerty.gif\par
+\cf1 ;\cf5\'c2 \'ef\'e0\'ef\'ea\'f3 Sounds \'f1\'f3\'e5\'f8\'fc \'ec\'e5\'eb\'ee\'e4\'e8\'fe \'f1 \'f2\'e0\'ea\'e8\'ec-\'e6\'e5 \'e8\'ec\'e5\'ed\'e5\'ec - \'f1\'ee\'ee\'f2\'e2\'e5\'f2\'f1\'f2\'e2\'e5\'ed\'ed\'ee\par
+\cf1 ;\cf5 qwerty.mid . \'ce\'ed\'e0 \'e8 \'e1\'f3\'e4\'e5\'f2 \'e8\'e3\'f0\'e0\'f2\'fc \'e4\'eb\'ff \'fd\'f2\'ee\'e3\'ee \'f7\'e5\'eb\'e0.\par
+\cf0\lang1033\b0\f1\fs16 11C3F0: E6FE3E37 DA9F503F\par
+11C3F8: DAA4CA4B cc00cc00\par
+7F3F50: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 88108880887088C088D0D7400800F2FC\par
+7F3F60: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 340B46FC41003D41E6FC4C0BE08DE6F8\par
+7F3F70: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 4837E0AFDC4D981C46F12E002D04DC4F\par
+7F3F80: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF B92808810DF7E6FC2E6DE6FD6964E00E\par
+7F3F90: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DC6FC4C80000C4D80200C4E80400E6F8\par
+7F3FA0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 3E37E0AFE6FC413AE6FD5C53E6FE6F75\par
+7F3FB0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DC6FC4C80000C4D80200C4E80400E6FC\par
+7F3FC0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 6E64E6FD735CDC5FC4C80600C4D80800\par
+7F3FD0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FE3E37E0AF98D098C0987098809810\par
+7F3FE0: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D7400800F68E340BDB00E6FE3E37E0AF\par
+7F3FF0: FFFFFFFFFFFFFFFFFFFFFFFFFFFF 98D098C0987098809810FAA4CA4B\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \lang1049\'c0\'e2\'f2\'ee\'ed\'e0\'e1\'ee\'f0\lang1033  \lang1049\'ef\'ee\'f1\'f2\'ee\'ff\'ed\'ed\'ee\lang1033  \lang1049\'f7\'e5\'f0\'e5\'e7\lang1033  \lang1049\'ed\'f3\'e6\'ed\'fb\'e5\lang1033  \lang1049\'e2\'e0\'ec\lang1033  \lang1049\'ef\'f0\'ee\'ec\'e5\'e6\'f3\'f2\'ea\'e8\lang1033  \lang1049\'e2\'f0\'e5\'ec\'e5\'ed\'e8\lang1033  *** \'a9 SiNgle, \'a7 AlexSid\par
+\cf1 ;\cf0 Released: 07.01.03\par
+\b0\f1\fs16 01BF62: 08C1 CC00\par
+361E42: 05 0a  \b\f0\fs18 ;0A - \lang1049\'ef\'e0\'f3\'e7\'e0\lang1033  10 \lang1049\'f1\'e5\'ea\'f3\'ed\'e4\lang1033\par
+\b0\f1\fs16\par
+\cf1\lang1049\b\f0\fs20 ;\cf2 *** \'d1\'ec\'e5\'ed\'e0 \'ff\'e7\'fb\'ea\'e0 \'ed\'e0 \'f0\'f3\'f1\'f1\'ea\'e8\'e9 \'ef\'f0\'e8 \'e2\'f5\'ee\'e4\'e5 \'e2 \'e0\'e4\'f0\'e5\'f1\'ed\'f3\'fe \'ea\'ed\'e8\'e3\'f3 *** \'a9 \lang1033 Matr\lang1049 !\lang1033 x\lang1049 , \'a7 \lang1033 ZH\lang1049 -\lang1033 Soft\lang1049\par
+\cf1\lang1033 ;\cf3 Released: 08.06.04\par
+\cf0\b0\f1\fs16 0D59AF: 6A66B2 5560DE\par
+4AB35F: 6A9EAD 5568DE\par
+35DE50: FFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FF1100D7400D00F6FF1A1EDB00\par
+35DE60: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DA5550DEFA6A66B2DA5550DEFA6A9EAD\par
+\cf1\lang1049\b\f0\fs18 ;\cf0\'f0\'f3\'f1\'f1\'ea\'e8\'e9 \u9472?> \'e0\'ed\'e3\'eb\'e8\'e9\'f1\'ea\'e8\'e9\par
+\b0\f1\fs16 ;35DE53: 11 00\par
+\par
+\cf1\b\f0\fs20 ;\cf2 *** \'cf\'f0\'ee\'e2\'ee\'e4\'ed\'e8\'ea \'e1\'e5\'e7 \lang1033 SIM\lang1049 -\'ea\'e0\'f0\'f2\'fb *** \'a9 \lang1033 SiNgle\lang1049 , \'a7 \lang1033 kay\lang1049\par
+\cf1 ;\cf4 !\'cf\'f0\'e8 \'e2\'fb\'f5\'ee\'e4\'e5 \'ea\'f0\'e0\'f1\'ed\'ee\'e9 \'ea\'ed\'ee\'ef\'ea\'ee\'e9 \'e8\'e7 \'e0\'ef\'ef\'eb\'e5\'f2\'e0, \'f2\'e5\'eb\'e5\'f4\'ee\'ed \'e2\'fb\'f0\'f3\'e1\'e0\'e5\'f2\'f1\'ff!\par
+\cf0\b0\f1\fs16 368\lang1033 BEE\lang1049 : \lang1033 C\lang1049 404 5\lang1033 E\lang1049 05\par
+\par
+}
+ 

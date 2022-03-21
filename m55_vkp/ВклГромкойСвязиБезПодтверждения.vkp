@@ -1,0 +1,7 @@
+;*** www.Включение_громкой_связи_во_время_разговора_без_подтверждения ***
+;(c) SiNgle , avkiev
+;Ported for M55v11 by AlexSid
+0D1A4E: E01CE6FD4907E00E DAA12E28FA2D621A
+
+
+;locale=Russian_Russia.1251

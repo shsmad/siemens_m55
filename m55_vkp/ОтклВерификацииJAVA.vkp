@@ -1,0 +1,9 @@
+;*** www.Отключение_верификации-JAVA-классов ***
+;!Ускоряет запуск мидлетов на 30-70%!
+;Работает любая из двух строчек
+;Java Verifizierung abschalten
+;(Java Applets starten 30-70% schneller)
+7584A8: 3D 0D ; Author : ACiD[mrp], SiNgle, Chaos
+
+
+;locale=Russian_Russia.1251
