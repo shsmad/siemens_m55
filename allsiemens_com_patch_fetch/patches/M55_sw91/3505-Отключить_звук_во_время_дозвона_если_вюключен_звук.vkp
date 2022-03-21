@@ -1,0 +1,11 @@
+;phone_model: M55 
+;sw: 91 
+;info: Отключить звук во время дозвона если вюключен звук 
+;web: http://allsiemens.com/ 
+;(c) Ramil_
+;------------------------ start ------------------------ 
+01B598: E6FC2A00 DACFE8FF
+AFFFE8: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DAA20A3F48402D02E00C0D02E6FC2A00DB00
+;AFFFF6: 2A xx ;заменить на любой другой звук
+;------------------------- end -------------------------
+

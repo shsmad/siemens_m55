@@ -1,0 +1,14 @@
+;phone_model: M55 
+;sw: 91 
+;info: «апуск мидлета при вставке новой SIM-карты 
+;web: http://allsiemens.com/ 
+;(c) SiNgle
+;------------------------ start ------------------------ 
+0D876C: 98809890 FA9FB008
+4EFA7A: DAB89E0C FA6E96FA
+7F0880: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FC8E08E6FD7C02E01EFA9122F8413A ;"A:"
+7F0890: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 5C61706F5C67736D5C67736D3E6A6172 ;"\apo\gsm\gsm.jar"
+7F08A0: FFFFFFFFFFFFFF 47534D2E6A6172 ;"gsm.jar"
+7F08B0: FFFFFFFFFFFFFFFFFFFF DA9F800898809890DB00
+;------------------------- end -------------------------
+

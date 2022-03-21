@@ -1,0 +1,9 @@
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Name: Caveman
+MIDlet-1: Caveman, caveman_logo.png, b
+MIDlet-Icon: caveman_logo.png
+MIDlet-Version: 1.0.5
+MIDlet-Vendor: Macrospace
+MIDlet-Jar-URL: http://de.midlet.com/f/s55/mr/4759/1515815827820155/m.jar
+MIDlet-Jar-Size: 35999

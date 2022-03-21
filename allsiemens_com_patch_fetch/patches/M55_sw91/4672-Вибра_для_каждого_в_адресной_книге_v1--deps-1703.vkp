@@ -1,0 +1,12 @@
+;phone_model: M55 
+;sw: 91 
+;info: Вибра для каждого в адресной книге v1 
+;web: http://allsiemens.com/ 
+;(c) Rascal
+;------------------------ start ------------------------ 
+35F206: DA5508F3 DA5500F1
+35F100: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D7400D00F2F45C1948403D06E004D740
+35F110: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 0D00F3F80824DB0047F876003DF726F4
+35F120: FFFFFFFFFFFF 00307C84DB00
+;------------------------- end -------------------------
+

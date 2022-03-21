@@ -1,0 +1,8 @@
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Name: Fallen Angel
+MIDlet-1: Fallen Angel, , angel.Angel
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: LDC Network
+MIDlet-Jar-URL: http://midlet.com/f/1073/8344328240407265/midlet.jar
+MIDlet-Jar-Size: 34216

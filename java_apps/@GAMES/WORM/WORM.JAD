@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0 
+MIDlet-Vendor: fabinader 
+MIDlet-Jar-URL: Worm.jar 
+MicroEdition-Configuration: CLDC-1.0 
+MIDlet-1: Snake, , worm.Snake 
+MicroEdition-Profile: MIDP-1.0 
+MIDlet-Jar-Size: 37426 
+MIDlet-Name: Worm 

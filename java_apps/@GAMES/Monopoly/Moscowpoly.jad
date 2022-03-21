@@ -1,0 +1,8 @@
+MIDlet-1: MoscowpolyMIDlet, , henson.games.MoscowpolyMIDlet
+MIDlet-Description: Russian version of the classic board game
+MIDlet-Info-URL: http://henson.newmail.ru
+MIDlet-Jar-Size: 65669
+MIDlet-Jar-URL: Moscowpoly.jar
+MIDlet-Name: Moscowpoly
+MIDlet-Vendor: UNTEH
+MIDlet-Version: 1.02

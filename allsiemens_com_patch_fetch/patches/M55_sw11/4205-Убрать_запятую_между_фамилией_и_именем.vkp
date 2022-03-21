@@ -1,0 +1,20 @@
+;phone_model: M55 
+;sw: 11 
+;info: Убрать запятую между фамилией и именем 
+;web: http://allsiemens.com/ 
+;(c) SiNgle
+;------------------------ start ------------------------ 
+3FB9A6: 2C 20
+4A9268: DA901C5B CC00CC00
+4A73F4: DA901C5B CC00CC00
+4A7BF8: DA901C5B CC00CC00
+4A7D36: DA901C5B CC00CC00
+4A7DEE: DA901C5B CC00CC00
+4AED4A: DA901C5B CC00CC00
+4C0480: DA901C5B CC00CC00
+4C05A2: DA901C5B CC00CC00
+4C16AC: DA901C5B CC00CC00
+4E1E7A: DA901C5B CC00CC00
+4F3572: DA901C5B CC00CC00
+;------------------------- end -------------------------
+

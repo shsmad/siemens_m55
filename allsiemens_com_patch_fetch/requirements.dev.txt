@@ -1,0 +1,36 @@
+wheel
+ipdb
+ipython
+black
+isort
+#pytest
+#pytest-cov
+#pytest-dependency
+#pytest-mock
+#requests-mock
+#mdgen
+
+flake8
+bandit
+safety
+flake8-bandit
+flake8-bugbear
+flake8-black
+flake8-broken-line
+flake8-builtins
+flake8-comprehensions
+flake8-debugger
+#flake8-multiline-containers # gives warnings
+flake8-print
+flake8-requirements
+flake8-simplify
+flake8-cognitive-complexity
+flake8-expression-complexity
+flake8-isort
+flake8-pytest-style
+
+mypy
+types-requests
+types-python-dateutil
+
+-r requirements.txt

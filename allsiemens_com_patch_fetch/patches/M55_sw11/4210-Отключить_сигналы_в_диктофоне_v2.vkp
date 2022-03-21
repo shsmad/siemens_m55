@@ -1,0 +1,14 @@
+;phone_model: M55 
+;sw: 11 
+;info: Отключить сигналы в диктофоне v2 
+;web: http://allsiemens.com/ 
+;(c) Matr!x
+;------------------------ start ------------------------ 
+0C3ED2: DAA23A3B CC00CC00
+0C4156: DAA23A3B CC00CC00
+0C47EC: DAA23A3B CC00CC00
+0C4828: DAA23A3B CC00CC00
+6FE1D8: DAA23A3B CC00CC00
+701890: DAA23A3B CC00CC00
+;------------------------- end -------------------------
+

@@ -1,0 +1,9 @@
+MicroEdition-Configuration: CLCD-1.0
+MIDlet-Install-Notify: http://fun.client.tmo.cz:7001/midpDownload/.notify?id=1293&sequence=15203&downloadId=16140&locale=cs_CZ
+MIDlet-Vendor: Akumiitti
+MIDlet-Version: 1.0
+MIDlet-Jar-Size: 32575
+MIDlet-Name: SeaBattle
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Jar-URL: http://fun.client.tmo.cz:7001/midpDownload/.jar?id=1293&sequence=15203&downloadId=16140&locale=cs_CZ
+MIDlet-1: SeaBattle,SeaBattle.png,startup

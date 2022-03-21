@@ -1,0 +1,7 @@
+MIDlet-1: SpruceBiorhythm, , org.spruce.midp.biorhythm.BiorhythmMIDlet
+MIDlet-Info-URL: http://www.spruce.jp/freemidlets
+MIDlet-Jar-Size: 6212
+MIDlet-Jar-URL: SpruceBiorhythm.jar
+MIDlet-Name: SpruceBiorhythm
+MIDlet-Vendor: Spruce Technologies
+MIDlet-Version: 1.0.2

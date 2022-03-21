@@ -1,0 +1,9 @@
+;phone_model: M55 
+;sw: 11 
+;info: Быстрый просмотр USSD сообщений и удаление с экрана 
+;web: http://allsiemens.com/ 
+;(c) Matr!x, SiNgle
+;------------------------ start ------------------------ 
+7F05F0: FFFFFFFFFFFFFFFFFFFF DA2D4829F0C4FA2E82DA
+;------------------------- end -------------------------
+

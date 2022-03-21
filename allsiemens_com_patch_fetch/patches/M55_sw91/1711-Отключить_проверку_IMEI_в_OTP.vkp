@@ -1,0 +1,9 @@
+;phone_model: M55 
+;sw: 91 
+;info: Отключить проверку IMEI в OTP 
+;web: http://allsiemens.com/ 
+;(c) Andrew911
+;------------------------ start ------------------------ 
+9F84D4: E02C00C066FCFF3FF2FD02FEF0E8F0F9DABFDEA8080248403D11 E02E00E066FEFF3FF2FF02FEF0C8F0D9DABF8CA70802CC00CC00
+;------------------------- end -------------------------
+

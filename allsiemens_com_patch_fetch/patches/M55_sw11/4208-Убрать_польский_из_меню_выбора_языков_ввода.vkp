@@ -1,0 +1,16 @@
+;phone_model: M55 
+;sw: 11 
+;info: Убрать польский из меню выбора языков ввода 
+;web: http://allsiemens.com/ 
+;(c) AlexSid
+;------------------------ start ------------------------ 
+#pragma disable warn_if_new_exist_on_apply 
+680080: 3C90 0000
+#pragma enable warn_if_new_exist_on_apply 
+41AE30: 0000 1501
+;Отключение англ. Т9:
+#pragma disable warn_if_new_exist_on_apply 
+680038: bc 00
+#pragma enable warn_if_new_exist_on_apply 
+;------------------------- end -------------------------
+

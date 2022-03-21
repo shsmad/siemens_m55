@@ -1,0 +1,12 @@
+;phone_model: M55 
+;sw: 91 
+;info: Замена Sim Application Toolkit Menu 
+;web: http://allsiemens.com/ 
+;(c) LittleBro
+;------------------------ start ------------------------ 
+3685CE: 529C 56B0
+3685D2: 5A9C 56B0
+36861F: 273A27 06F305 ;rename menu item
+
+;------------------------- end -------------------------
+

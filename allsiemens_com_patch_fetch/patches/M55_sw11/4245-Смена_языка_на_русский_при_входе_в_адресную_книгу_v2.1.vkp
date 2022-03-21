@@ -1,0 +1,14 @@
+;phone_model: M55 
+;sw: 11 
+;info: Смена языка на русский при входе в адресную книгу v2.1 
+;web: http://allsiemens.com/ 
+;(c) Matr!x
+;------------------------ start ------------------------ 
+0D59AF: 6A66B2 5560DE
+4AB35F: 6A9EAD 5568DE
+35DE50: FFFFFFFFFFFFFFFFFFFFFFFFFFFF E6FF1100D7400D00F6FF1A1EDB00
+35DE60: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF DA5550DEFA6A66B2DA5550DEFA6A9EAD
+;русский &#9472;> английский
+;35DE52: 11 00
+;------------------------- end -------------------------
+

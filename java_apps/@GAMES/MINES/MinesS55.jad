@@ -1,0 +1,8 @@
+MIDlet-1: Minefield, /icons/icon.png, com.innograte.j2me.games.minefield.MinefieldMidlet
+MIDlet-Info-URL: http://www.innograte.com/mobile/midp/
+MIDlet-Icon: /icons/icon.png
+MIDlet-Jar-Size: 27998
+MIDlet-Jar-URL: http://download.siemens-club.ru/files/java/MinesS55.jar
+MIDlet-Name: Minefield
+MIDlet-Vendor: Innograte AB
+MIDlet-Version: 1.0.0

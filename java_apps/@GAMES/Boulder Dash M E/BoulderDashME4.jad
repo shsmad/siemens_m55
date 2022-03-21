@@ -1,0 +1,11 @@
+MIDlet-1: BoulderDash, , net.instantcom.boulderdash.BoulderDashMIDlet
+MIDlet-Jar-URL: http://wap.mload.de/dwn/dsrv/dede/ntrsetr0rl/BoulderDashME4.jar
+MIDlet-Version: 1.0.5
+MIDlet-Description: Boulder Dash ME
+MIDlet-Vendor: dbi
+MIDlet-Name: BoulderDash
+MIDlet-Jar-Size: 62449
+MIDlet-Info-URL: http://www.digitalbridges.com/
+MicroEdition-Profile: MIDP-1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Install-Notify: http://wap.mload.de/dwn/dsrv/dede/ntrsetr0rl/notification.pin
